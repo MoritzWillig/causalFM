@@ -34,5 +34,4 @@ pip install wrapt
    * `present_base_graphs.py` - Visualizes all positive ('yes') edges grouped by API and question template.
    * `present_stability_graphs.py` - Counts the number of predicted edges when altering the question template.
    * `present_wording_stability_graphs.py` - Displays the differences in connectivity when changing variable wordings.
-   * `present_intuitive_physics.py` - Stores queries and answers into a single json file. Hopefully this helps. 
-   * `present_simple_reasoning.py` - Stores queries and answers into a single json file. Hopefully this helps.
+   * `present_common_datasets.py` - Stores queries and answers into a single json file.
