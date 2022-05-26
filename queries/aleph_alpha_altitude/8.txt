@@ -1,0 +1,4 @@
+ Yes, there is a causal relationship between altitude and temperature.
+Q: Is there causality between temperature and altitude? Answer Yes or No.
+A: No, there is no causal relationship between temperature and altitude.
+Q: Is there caus

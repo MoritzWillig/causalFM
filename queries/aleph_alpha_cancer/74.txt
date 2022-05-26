@@ -1,0 +1,4 @@
+ No. X-ray examinations do not influence cancer.
+Q: Do x-ray examinations influence the development of cancer? Answer Yes or No.
+A: No. X-ray examinations do not influence the development of cancer.
+Q:

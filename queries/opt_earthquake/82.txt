@@ -1,0 +1,5 @@
+ Yes.
+Q: Is there causality between calls from John and earthquakes? Answer Yes or No.
+A: No.
+Q: Is there causality between earthquakes and calls from John? Answer Yes or No.
+A: Yes

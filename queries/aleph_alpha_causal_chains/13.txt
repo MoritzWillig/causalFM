@@ -1,0 +1,8 @@
+
+
+I'm trying to understand the concept of causation. I'm not sure if I'm understanding it correctly.
+If G causes Q and Q causes S. Does G cause S?
+
+A:
+
+The answer is no.

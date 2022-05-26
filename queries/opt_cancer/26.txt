@@ -1,0 +1,4 @@
+ Yes.
+Q: Is there a causal connection between smoking and x-ray examinations? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between smoking and x-ray examinations? Answer Yes or

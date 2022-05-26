@@ -1,0 +1,10 @@
+
+A. The heavy object
+B. The light object
+C. The seesaw will move up
+D. The seesaw will move down
+E. The seesaw will not move
+
+Answer: A
+
+Question

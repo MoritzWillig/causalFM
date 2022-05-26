@@ -1,0 +1,6 @@
+
+If Q causes S and G causes Q, then G causes S.
+
+If Q causes S and G causes Q, then G does not cause S.
+
+If Q causes S and G does not cause Q, then G does not cause S.

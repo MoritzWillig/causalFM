@@ -1,0 +1,6 @@
+ No.
+Q: Do x-ray examinations cause pain? Answer Yes or No.
+A: No.
+Q: Do x-ray examinations cause nausea? Answer Yes or No.
+A: No.
+Q: Do x-

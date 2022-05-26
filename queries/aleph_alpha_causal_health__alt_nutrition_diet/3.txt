@@ -1,0 +1,4 @@
+ Yes, a diet and age are causally related.
+Q: Are a diet and age causally related? Answer Yes or No.
+A: No, a diet and age are not causally related.
+Q: Are a diet and

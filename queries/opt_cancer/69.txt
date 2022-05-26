@@ -1,0 +1,7 @@
+ Yes.
+Q: Does cancer influence smoking? Answer Yes or No.
+A: Yes.
+Q: Does cancer influence smoking? Answer Yes or No.
+A: Yes.
+Q: Does cancer influence smoking? Answer Yes or No.
+A: Yes

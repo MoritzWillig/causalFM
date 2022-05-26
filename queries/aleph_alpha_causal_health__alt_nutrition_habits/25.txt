@@ -1,0 +1,4 @@
+ Yes, there is a strong correlation between health and eating habits.
+Q: Is there causality between health and smoking habits? Answer Yes or No.
+A: Yes, there is a strong correlation between health and smoking habits.
+Q:

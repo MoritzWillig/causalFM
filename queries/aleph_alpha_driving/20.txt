@@ -1,0 +1,4 @@
+ Yes, the driving style does influence the remaining fuel.
+Q: Does the driving style influence the fuel consumption? Answer Yes or No.
+A: Yes, the driving style does influence the fuel consumption.
+Q: Does the driving style influence

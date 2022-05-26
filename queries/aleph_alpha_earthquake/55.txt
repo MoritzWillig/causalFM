@@ -1,0 +1,4 @@
+ No, because John and Mary are different people.
+Q: Do calls from John cause calls from Mary? Answer Yes or No.
+A: Yes, because John and Mary are the same person.
+Q: Do calls from John cause calls

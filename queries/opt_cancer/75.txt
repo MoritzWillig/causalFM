@@ -1,0 +1,4 @@
+ No.
+Q: Do x-ray examinations influence the diagnosis of dyspnoea? Answer Yes or No.
+A: No.
+Q: Do x-ray examinations influence the diagnosis of dyspnoea in children? Answer

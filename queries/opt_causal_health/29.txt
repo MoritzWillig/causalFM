@@ -1,0 +1,7 @@
+ Yes.
+Q: Does nutrition cause health? Answer Yes or No.
+A: Yes.
+Q: Does health cause nutrition? Answer Yes or No.
+A: Yes.
+Q: Does nutrition cause health? Answer Yes or No.
+A: Yes

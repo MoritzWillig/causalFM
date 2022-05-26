@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between alarms and burglaries.
+B: No, there is no causal connection between alarms and burglaries.
+C: I don’t know.
+D: I don’t know.

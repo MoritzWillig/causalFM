@@ -1,0 +1,4 @@
+ No, alarms do not cause calls from Mary.
+B: Yes, alarms do cause calls from Mary.
+C: No, alarms do not cause calls from Mary.
+D: Yes, alarms do cause calls from Mary

@@ -1,0 +1,4 @@
+ Yes, there is causality between a diet and age.
+Q: Is there causality between a diet and age? Answer Yes or No.
+A: No, there is no causality between a diet and age.
+Q: Is

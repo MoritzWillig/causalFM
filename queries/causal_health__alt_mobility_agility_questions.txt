@@ -1,0 +1,30 @@
+Q: Are age and agility causally related? Answer Yes or No.\nA: 
+Q: Are health and agility causally related? Answer Yes or No.\nA: 
+Q: Are agility and age causally related? Answer Yes or No.\nA: 
+Q: Are agility and health causally related? Answer Yes or No.\nA: 
+Q: Are agility and nutrition causally related? Answer Yes or No.\nA: 
+Q: Are nutrition and agility causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between age and agility? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health and agility? Answer Yes or No.\nA: 
+Q: Is there a causal connection between agility and age? Answer Yes or No.\nA: 
+Q: Is there a causal connection between agility and health? Answer Yes or No.\nA: 
+Q: Is there a causal connection between agility and nutrition? Answer Yes or No.\nA: 
+Q: Is there a causal connection between nutrition and agility? Answer Yes or No.\nA: 
+Q: Does age cause agility? Answer Yes or No.\nA: 
+Q: Does health cause agility? Answer Yes or No.\nA: 
+Q: Does agility cause age? Answer Yes or No.\nA: 
+Q: Does agility cause health? Answer Yes or No.\nA: 
+Q: Does agility cause nutrition? Answer Yes or No.\nA: 
+Q: Does nutrition cause agility? Answer Yes or No.\nA: 
+Q: Does age influence agility? Answer Yes or No.\nA: 
+Q: Does health influence agility? Answer Yes or No.\nA: 
+Q: Does agility influence age? Answer Yes or No.\nA: 
+Q: Does agility influence health? Answer Yes or No.\nA: 
+Q: Does agility influence nutrition? Answer Yes or No.\nA: 
+Q: Does nutrition influence agility? Answer Yes or No.\nA: 
+Q: Is there causality between age and agility? Answer Yes or No.\nA: 
+Q: Is there causality between health and agility? Answer Yes or No.\nA: 
+Q: Is there causality between agility and age? Answer Yes or No.\nA: 
+Q: Is there causality between agility and health? Answer Yes or No.\nA: 
+Q: Is there causality between agility and nutrition? Answer Yes or No.\nA: 
+Q: Is there causality between nutrition and agility? Answer Yes or No.\nA: 

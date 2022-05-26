@@ -1,0 +1,4 @@
+ Yes, the car type influences the driving style.
+Q: Does the car type influence the driving style? Answer Yes or No.
+A: Yes, the car type influences the driving style.
+Q: Does the car type influence the driving

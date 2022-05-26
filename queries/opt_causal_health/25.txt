@@ -1,0 +1,7 @@
+ Yes.
+Q: Does age cause hearing loss? Answer Yes or No.
+A: Yes.
+Q: Does age cause vision loss? Answer Yes or No.
+A: Yes.
+Q: Does age cause arthritis? Answer Yes or No.
+A

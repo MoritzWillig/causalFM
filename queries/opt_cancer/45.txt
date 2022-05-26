@@ -1,0 +1,6 @@
+ Smoking causes cancer.
+Q: Does smoking cause lung cancer? Answer Yes or No.
+A: Smoking causes lung cancer.
+Q: Does smoking cause mouth cancer? Answer Yes or No.
+A: Smoking causes mouth cancer.
+Q: Does smoking cause throat

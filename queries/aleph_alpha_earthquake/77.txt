@@ -1,0 +1,4 @@
+ No, because burglaries are not influenced by Mary.
+B: Yes, because burglaries are influenced by Mary.
+C: No, because burglaries are not influenced by Mary.
+D: Yes, because burglaries are influenced by Mary

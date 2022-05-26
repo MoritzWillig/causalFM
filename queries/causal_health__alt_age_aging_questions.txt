@@ -1,0 +1,30 @@
+Q: Are aging and health causally related? Answer Yes or No.\nA: 
+Q: Are aging and mobility causally related? Answer Yes or No.\nA: 
+Q: Are aging and nutrition causally related? Answer Yes or No.\nA: 
+Q: Are health and aging causally related? Answer Yes or No.\nA: 
+Q: Are mobility and aging causally related? Answer Yes or No.\nA: 
+Q: Are nutrition and aging causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between aging and health? Answer Yes or No.\nA: 
+Q: Is there a causal connection between aging and mobility? Answer Yes or No.\nA: 
+Q: Is there a causal connection between aging and nutrition? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health and aging? Answer Yes or No.\nA: 
+Q: Is there a causal connection between mobility and aging? Answer Yes or No.\nA: 
+Q: Is there a causal connection between nutrition and aging? Answer Yes or No.\nA: 
+Q: Does aging cause health? Answer Yes or No.\nA: 
+Q: Does aging cause mobility? Answer Yes or No.\nA: 
+Q: Does aging cause nutrition? Answer Yes or No.\nA: 
+Q: Does health cause aging? Answer Yes or No.\nA: 
+Q: Does mobility cause aging? Answer Yes or No.\nA: 
+Q: Does nutrition cause aging? Answer Yes or No.\nA: 
+Q: Does aging influence health? Answer Yes or No.\nA: 
+Q: Does aging influence mobility? Answer Yes or No.\nA: 
+Q: Does aging influence nutrition? Answer Yes or No.\nA: 
+Q: Does health influence aging? Answer Yes or No.\nA: 
+Q: Does mobility influence aging? Answer Yes or No.\nA: 
+Q: Does nutrition influence aging? Answer Yes or No.\nA: 
+Q: Is there causality between aging and health? Answer Yes or No.\nA: 
+Q: Is there causality between aging and mobility? Answer Yes or No.\nA: 
+Q: Is there causality between aging and nutrition? Answer Yes or No.\nA: 
+Q: Is there causality between health and aging? Answer Yes or No.\nA: 
+Q: Is there causality between mobility and aging? Answer Yes or No.\nA: 
+Q: Is there causality between nutrition and aging? Answer Yes or No.\nA: 

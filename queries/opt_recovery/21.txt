@@ -1,0 +1,5 @@
+ Yes.
+Q: Does the speed of recovery influence the severity of the disease? Answer Yes or No.
+A: Yes.
+Q: Does the speed of recovery influence the duration of the disease? Answer Yes or No.
+A:

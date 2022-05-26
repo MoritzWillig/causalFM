@@ -1,0 +1,9 @@
+
+
+A:
+
+The answer is no.
+The problem is that the metal rod is not a part of the stone.
+The stone is a part of the object.
+The object is a part of the system.
+The system

@@ -1,0 +1,6 @@
+ No.
+Q: Do earthquakes cause tsunamis? Answer Yes or No.
+A: No.
+Q: Do earthquakes cause landslides? Answer Yes or No.
+A: Yes.
+Q: Do earthquakes cause floods? Answer Yes or No.

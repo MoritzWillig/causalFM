@@ -1,0 +1,30 @@
+Q: Are age and fitness causally related? Answer Yes or No.\nA: 
+Q: Are health and fitness causally related? Answer Yes or No.\nA: 
+Q: Are fitness and age causally related? Answer Yes or No.\nA: 
+Q: Are fitness and health causally related? Answer Yes or No.\nA: 
+Q: Are fitness and nutrition causally related? Answer Yes or No.\nA: 
+Q: Are nutrition and fitness causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between age and fitness? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health and fitness? Answer Yes or No.\nA: 
+Q: Is there a causal connection between fitness and age? Answer Yes or No.\nA: 
+Q: Is there a causal connection between fitness and health? Answer Yes or No.\nA: 
+Q: Is there a causal connection between fitness and nutrition? Answer Yes or No.\nA: 
+Q: Is there a causal connection between nutrition and fitness? Answer Yes or No.\nA: 
+Q: Does age cause fitness? Answer Yes or No.\nA: 
+Q: Does health cause fitness? Answer Yes or No.\nA: 
+Q: Does fitness cause age? Answer Yes or No.\nA: 
+Q: Does fitness cause health? Answer Yes or No.\nA: 
+Q: Does fitness cause nutrition? Answer Yes or No.\nA: 
+Q: Does nutrition cause fitness? Answer Yes or No.\nA: 
+Q: Does age influence fitness? Answer Yes or No.\nA: 
+Q: Does health influence fitness? Answer Yes or No.\nA: 
+Q: Does fitness influence age? Answer Yes or No.\nA: 
+Q: Does fitness influence health? Answer Yes or No.\nA: 
+Q: Does fitness influence nutrition? Answer Yes or No.\nA: 
+Q: Does nutrition influence fitness? Answer Yes or No.\nA: 
+Q: Is there causality between age and fitness? Answer Yes or No.\nA: 
+Q: Is there causality between health and fitness? Answer Yes or No.\nA: 
+Q: Is there causality between fitness and age? Answer Yes or No.\nA: 
+Q: Is there causality between fitness and health? Answer Yes or No.\nA: 
+Q: Is there causality between fitness and nutrition? Answer Yes or No.\nA: 
+Q: Is there causality between nutrition and fitness? Answer Yes or No.\nA: 

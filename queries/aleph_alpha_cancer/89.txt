@@ -1,0 +1,4 @@
+ Yes, there is causality between cancer and smoking.
+Q: Is there causality between cancer and alcohol? Answer Yes or No.
+A: Yes, there is causality between cancer and alcohol.
+Q: Is there causality between

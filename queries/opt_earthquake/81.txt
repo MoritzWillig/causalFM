@@ -1,0 +1,4 @@
+ Yes.
+Q: Is there causality between earthquakes and alarms and the number of alarms? Answer Yes or No.
+A: Yes.
+Q: Is there causality between earthquakes and alarms and the number of alarms and the number of earthquakes?

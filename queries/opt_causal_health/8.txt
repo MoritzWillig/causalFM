@@ -1,0 +1,9 @@
+ Yes
+B: No
+C: I don't know
+D: I don't know
+
+Q: Are mobility and nutrition causally related? Answer Yes or No.
+A: Yes
+B: No
+C: I don't know

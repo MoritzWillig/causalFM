@@ -1,0 +1,5 @@
+ Yes.
+Q: Is there a causal connection between pollution and asthma? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between pollution and cancer? Answer Yes or No.
+A: Yes

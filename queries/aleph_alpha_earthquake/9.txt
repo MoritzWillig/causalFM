@@ -1,0 +1,4 @@
+ Yes, alarms are causally related to burglaries.
+Q: Are alarms and burglaries causally related? Answer Yes or No.
+A: No, alarms are not causally related to burglaries.
+Q: Are

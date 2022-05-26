@@ -1,0 +1,5 @@
+ Yes, health influences nutrition.
+Q: Does nutrition influence health? Answer Yes or No.
+A: Yes, nutrition influences health.
+Q: Does health influence nutrition? Answer Yes or No.
+A: Yes, health influences nutrition.

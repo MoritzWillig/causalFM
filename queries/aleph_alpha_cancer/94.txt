@@ -1,0 +1,5 @@
+ No.
+Q: Is there causality between x-ray examinations and cancer? Answer Yes or No.
+A: No.
+Q: Is there causality between x-ray examinations and cancer? Answer Yes or No.
+A:

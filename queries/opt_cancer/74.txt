@@ -1,0 +1,5 @@
+ No.
+Q: Do x-ray examinations influence the development of cancer? Answer Yes or No.
+A: No.
+Q: Do x-ray examinations influence the development of cancer in children? Answer Yes or No.
+A: No.

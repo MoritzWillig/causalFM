@@ -1,0 +1,5 @@
+ Yes.
+Q: Is there a causal connection between postconditions and treatments? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between preconditions and postconditions? Answer Yes or No.
+A: No

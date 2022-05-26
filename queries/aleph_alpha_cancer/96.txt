@@ -1,0 +1,3 @@
+ Yes, there is causality between dyspnoea and pollution.
+Q: Is there causality between dyspnoea and pollution? Answer Yes or No.
+A: Yes, there is causality between dyspnoea and pollution

@@ -1,0 +1,11 @@
+
+
+A:
+
+The answer is no.
+The reason is that the cause of S is Q, and the cause of Q is G.
+So, the cause of S is G.
+
+A:
+
+The cause of

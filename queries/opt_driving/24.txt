@@ -1,0 +1,4 @@
+ Yes.
+Q: Is there causality between driving style and the remaining fuel? Answer Yes or No.
+A: Yes.
+Q: Is there causality between driving style and the remaining fuel and the driving style? Answer Yes

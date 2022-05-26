@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between health conditions and nutrition.
+Q: Is there a causal connection between health conditions and nutrition? Answer Yes or No.
+A: Yes, there is a causal connection between health conditions and nutrition.
+Q

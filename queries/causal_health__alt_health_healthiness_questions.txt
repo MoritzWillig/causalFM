@@ -1,0 +1,30 @@
+Q: Are age and healthiness causally related? Answer Yes or No.\nA: 
+Q: Are healthiness and age causally related? Answer Yes or No.\nA: 
+Q: Are healthiness and mobility causally related? Answer Yes or No.\nA: 
+Q: Are healthiness and nutrition causally related? Answer Yes or No.\nA: 
+Q: Are mobility and healthiness causally related? Answer Yes or No.\nA: 
+Q: Are nutrition and healthiness causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between age and healthiness? Answer Yes or No.\nA: 
+Q: Is there a causal connection between healthiness and age? Answer Yes or No.\nA: 
+Q: Is there a causal connection between healthiness and mobility? Answer Yes or No.\nA: 
+Q: Is there a causal connection between healthiness and nutrition? Answer Yes or No.\nA: 
+Q: Is there a causal connection between mobility and healthiness? Answer Yes or No.\nA: 
+Q: Is there a causal connection between nutrition and healthiness? Answer Yes or No.\nA: 
+Q: Does age cause healthiness? Answer Yes or No.\nA: 
+Q: Does healthiness cause age? Answer Yes or No.\nA: 
+Q: Does healthiness cause mobility? Answer Yes or No.\nA: 
+Q: Does healthiness cause nutrition? Answer Yes or No.\nA: 
+Q: Does mobility cause healthiness? Answer Yes or No.\nA: 
+Q: Does nutrition cause healthiness? Answer Yes or No.\nA: 
+Q: Does age influence healthiness? Answer Yes or No.\nA: 
+Q: Does healthiness influence age? Answer Yes or No.\nA: 
+Q: Does healthiness influence mobility? Answer Yes or No.\nA: 
+Q: Does healthiness influence nutrition? Answer Yes or No.\nA: 
+Q: Does mobility influence healthiness? Answer Yes or No.\nA: 
+Q: Does nutrition influence healthiness? Answer Yes or No.\nA: 
+Q: Is there causality between age and healthiness? Answer Yes or No.\nA: 
+Q: Is there causality between healthiness and age? Answer Yes or No.\nA: 
+Q: Is there causality between healthiness and mobility? Answer Yes or No.\nA: 
+Q: Is there causality between healthiness and nutrition? Answer Yes or No.\nA: 
+Q: Is there causality between mobility and healthiness? Answer Yes or No.\nA: 
+Q: Is there causality between nutrition and healthiness? Answer Yes or No.\nA: 

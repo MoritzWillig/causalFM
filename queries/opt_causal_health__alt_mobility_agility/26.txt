@@ -1,0 +1,5 @@
+ Yes.
+Q: Is there causality between agility and age and gender? Answer Yes or No.
+A: Yes.
+Q: Is there causality between agility and age and gender and race? Answer Yes or No.
+A: Yes

@@ -1,0 +1,6 @@
+ No.
+Q: Do calls from Mary cause robberies? Answer Yes or No.
+A: No.
+Q: Do calls from Mary cause fires? Answer Yes or No.
+A: No.
+Q: Do calls from Mary cause car accidents

@@ -1,0 +1,4 @@
+ Yes, there is.
+Q: Is there causality between remaining fuel and the car type? Answer Yes or No.
+A: Yes, there is.
+Q: Is there causality between remaining fuel and the car type? Answer Yes

@@ -1,0 +1,30 @@
+Q: Are age and health conditions causally related? Answer Yes or No.\nA: 
+Q: Are health conditions and age causally related? Answer Yes or No.\nA: 
+Q: Are health conditions and mobility causally related? Answer Yes or No.\nA: 
+Q: Are health conditions and nutrition causally related? Answer Yes or No.\nA: 
+Q: Are mobility and health conditions causally related? Answer Yes or No.\nA: 
+Q: Are nutrition and health conditions causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between age and health conditions? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health conditions and age? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health conditions and mobility? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health conditions and nutrition? Answer Yes or No.\nA: 
+Q: Is there a causal connection between mobility and health conditions? Answer Yes or No.\nA: 
+Q: Is there a causal connection between nutrition and health conditions? Answer Yes or No.\nA: 
+Q: Does age cause health conditions? Answer Yes or No.\nA: 
+Q: Do health conditions cause age? Answer Yes or No.\nA: 
+Q: Do health conditions cause mobility? Answer Yes or No.\nA: 
+Q: Do health conditions cause nutrition? Answer Yes or No.\nA: 
+Q: Does mobility cause health conditions? Answer Yes or No.\nA: 
+Q: Does nutrition cause health conditions? Answer Yes or No.\nA: 
+Q: Does age influence health conditions? Answer Yes or No.\nA: 
+Q: Do health conditions influence age? Answer Yes or No.\nA: 
+Q: Do health conditions influence mobility? Answer Yes or No.\nA: 
+Q: Do health conditions influence nutrition? Answer Yes or No.\nA: 
+Q: Does mobility influence health conditions? Answer Yes or No.\nA: 
+Q: Does nutrition influence health conditions? Answer Yes or No.\nA: 
+Q: Is there causality between age and health conditions? Answer Yes or No.\nA: 
+Q: Is there causality between health conditions and age? Answer Yes or No.\nA: 
+Q: Is there causality between health conditions and mobility? Answer Yes or No.\nA: 
+Q: Is there causality between health conditions and nutrition? Answer Yes or No.\nA: 
+Q: Is there causality between mobility and health conditions? Answer Yes or No.\nA: 
+Q: Is there causality between nutrition and health conditions? Answer Yes or No.\nA: 

@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between smoking and cancer.
+B: No, there is no causal connection between smoking and cancer.
+C: It depends on the type of cancer.
+D: It depends on the type of smoker.

@@ -1,0 +1,4 @@
+ Yes
+Q: Is there a causal connection between calls from Mary and calls from John? Answer Yes or No.
+A: No
+Q: Is there a causal connection between calls from Mary and calls from John? Answer Yes

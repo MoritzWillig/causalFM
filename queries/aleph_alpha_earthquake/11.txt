@@ -1,0 +1,5 @@
+ No.
+Q: Are alarms and calls from Mary causally related? Answer Yes or No.
+A: Yes.
+Q: Are alarms and calls from Mary causally related? Answer Yes or No.
+A: No.

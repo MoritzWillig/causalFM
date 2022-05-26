@@ -1,0 +1,30 @@
+Q: Are remaining fuel and the driving style causally related? Answer Yes or No.\nA: 
+Q: Are remaining fuel and the car type causally related? Answer Yes or No.\nA: 
+Q: Are the driving style and remaining fuel causally related? Answer Yes or No.\nA: 
+Q: Are the driving style and car type causally related? Answer Yes or No.\nA: 
+Q: Are the car type and remaining fuel causally related? Answer Yes or No.\nA: 
+Q: Are the car type and driving style causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between remaining fuel and the driving style? Answer Yes or No.\nA: 
+Q: Is there a causal connection between remaining fuel and the car type? Answer Yes or No.\nA: 
+Q: Is there a causal connection between the driving style and remaining fuel? Answer Yes or No.\nA: 
+Q: Is there a causal connection between the driving style and the car type? Answer Yes or No.\nA: 
+Q: Is there a causal connection between the car type and remaining fuel? Answer Yes or No.\nA: 
+Q: Is there a causal connection between the car type and the driving style? Answer Yes or No.\nA: 
+Q: Does remaining fuel cause the driving style? Answer Yes or No.\nA: 
+Q: Does remaining fuel cause the car type? Answer Yes or No.\nA: 
+Q: Does the driving style cause remaining fuel? Answer Yes or No.\nA: 
+Q: Does the driving style cause the car type? Answer Yes or No.\nA: 
+Q: Does the car type cause remaining fuel? Answer Yes or No.\nA: 
+Q: Does the car type cause the driving style? Answer Yes or No.\nA: 
+Q: Does remaining fuel influence the driving style? Answer Yes or No.\nA: 
+Q: Does remaining fuel influence the car type? Answer Yes or No.\nA: 
+Q: Does the driving style influence remaining fuel? Answer Yes or No.\nA: 
+Q: Does the driving style influence the car type? Answer Yes or No.\nA: 
+Q: Does the car type influence remaining fuel? Answer Yes or No.\nA: 
+Q: Does the car type influence the driving style? Answer Yes or No.\nA: 
+Q: Is there causality between remaining fuel and the driving style? Answer Yes or No.\nA: 
+Q: Is there causality between remaining fuel and the car type? Answer Yes or No.\nA: 
+Q: Is there causality between the driving style and remaining fuel? Answer Yes or No.\nA: 
+Q: Is there causality between the driving style and the car type? Answer Yes or No.\nA: 
+Q: Is there causality between the car type and remaining fuel? Answer Yes or No.\nA: 
+Q: Is there causality between the car type and the driving style? Answer Yes or No.\nA: 

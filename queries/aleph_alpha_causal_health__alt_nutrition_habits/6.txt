@@ -1,0 +1,5 @@
+ Yes, there is a causal connection between age and eating habits.
+B: No, there is no causal connection between age and eating habits.
+C: It depends on the person.
+D: It depends on the situation.
+E:

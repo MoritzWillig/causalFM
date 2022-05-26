@@ -1,0 +1,4 @@
+ Yes, cancer causes x-ray examinations.
+Q: Does cancer cause x-ray examinations? Answer Yes or No.
+A: Yes, cancer causes x-ray examinations.
+Q: Does cancer cause x-ray examinations? Answer Yes

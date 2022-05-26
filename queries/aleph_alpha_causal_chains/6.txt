@@ -1,0 +1,9 @@
+
+
+A:
+
+The answer is no.
+The cause of A is A itself.
+The cause of B is A and B.
+The cause of C is A, B and C.
+The cause of D is A,

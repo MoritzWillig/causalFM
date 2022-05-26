@@ -1,0 +1,5 @@
+ No, because John is not a burglar.
+B: Yes, because John is a burglar.
+C: No, because John is not a burglar.
+D: Yes, because John is a burglar.
+E:

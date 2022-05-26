@@ -1,0 +1,4 @@
+ Earthquakes do not influence alarms.
+Q: What is the difference between a seismic event and an earthquake? Answer Yes or No.
+A: A seismic event is a seismic event. An earthquake is an earthquake.
+Q: What is the difference between a seismic event

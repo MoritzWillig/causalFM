@@ -1,0 +1,6 @@
+ No.
+Q: Do calls from John cause hurricanes? Answer Yes or No.
+A: No.
+Q: Do calls from John cause tornadoes? Answer Yes or No.
+A: No.
+Q: Do calls from John cause floods?

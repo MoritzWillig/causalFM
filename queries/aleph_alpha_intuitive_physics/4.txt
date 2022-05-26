@@ -1,0 +1,12 @@
+
+
+A. The table is flat.
+B. The table is round.
+C. The table is square.
+D. The table is rectangular.
+
+Answer: C
+
+Explanation:
+
+The table is rectangular

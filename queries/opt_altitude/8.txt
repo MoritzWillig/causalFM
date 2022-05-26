@@ -1,0 +1,6 @@
+ Yes.
+Q: Is there causality between altitude and precipitation? Answer Yes or No.
+A: Yes.
+Q: Is there causality between altitude and wind speed? Answer Yes or No.
+A: Yes.
+Q: Is

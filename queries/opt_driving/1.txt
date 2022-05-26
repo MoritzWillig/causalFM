@@ -1,0 +1,5 @@
+ Yes
+Q: Is the car type causally related to the remaining fuel? Answer Yes or No.
+A: Yes
+Q: Is the remaining fuel causally related to the car type? Answer Yes or No.
+A: Yes

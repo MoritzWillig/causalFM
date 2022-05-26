@@ -1,0 +1,4 @@
+ Yes, earthquakes can influence alarms.
+Q: Do earthquakes influence the operation of the building? Answer Yes or No.
+A: Yes, earthquakes can influence the operation of the building.
+Q: Do earthquakes influence the

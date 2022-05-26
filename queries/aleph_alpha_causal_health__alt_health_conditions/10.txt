@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between mobility and health conditions.
+Q: Is there a causal connection between mobility and health conditions? Answer Yes or No.
+A: Yes, there is a causal connection between mobility and health conditions.
+Q

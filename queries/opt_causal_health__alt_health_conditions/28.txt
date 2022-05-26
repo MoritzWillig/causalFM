@@ -1,0 +1,4 @@
+ Yes.
+Q: Is there causality between mobility and health conditions and mortality? Answer Yes or No.
+A: Yes.
+Q: Is there causality between mobility and health conditions and mortality and disability? Answer Yes or No.

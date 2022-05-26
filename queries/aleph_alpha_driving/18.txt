@@ -1,0 +1,5 @@
+ Yes, it does.
+Q: What is the maximum speed of the car?
+A: The maximum speed of the car is 200 km/h.
+Q: What is the maximum speed of the car in the city?
+A:

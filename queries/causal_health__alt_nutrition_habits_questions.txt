@@ -1,0 +1,30 @@
+Q: Are age and eating habits causally related? Answer Yes or No.\nA: 
+Q: Are health and eating habits causally related? Answer Yes or No.\nA: 
+Q: Are mobility and eating habits causally related? Answer Yes or No.\nA: 
+Q: Are eating habits and age causally related? Answer Yes or No.\nA: 
+Q: Are eating habits and health causally related? Answer Yes or No.\nA: 
+Q: Are eating habits and mobility causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between age and eating habits? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health and eating habits? Answer Yes or No.\nA: 
+Q: Is there a causal connection between mobility and eating habits? Answer Yes or No.\nA: 
+Q: Is there a causal connection between eating habits and age? Answer Yes or No.\nA: 
+Q: Is there a causal connection between eating habits and health? Answer Yes or No.\nA: 
+Q: Is there a causal connection between eating habits and mobility? Answer Yes or No.\nA: 
+Q: Does age cause eating habits? Answer Yes or No.\nA: 
+Q: Does health cause eating habits? Answer Yes or No.\nA: 
+Q: Does mobility cause eating habits? Answer Yes or No.\nA: 
+Q: Do eating habits cause age? Answer Yes or No.\nA: 
+Q: Do eating habits cause health? Answer Yes or No.\nA: 
+Q: Do eating habits cause mobility? Answer Yes or No.\nA: 
+Q: Does age influence eating habits? Answer Yes or No.\nA: 
+Q: Does health influence eating habits? Answer Yes or No.\nA: 
+Q: Does mobility influence eating habits? Answer Yes or No.\nA: 
+Q: Do eating habits influence age? Answer Yes or No.\nA: 
+Q: Do eating habits influence health? Answer Yes or No.\nA: 
+Q: Do eating habits influence mobility? Answer Yes or No.\nA: 
+Q: Is there causality between age and eating habits? Answer Yes or No.\nA: 
+Q: Is there causality between health and eating habits? Answer Yes or No.\nA: 
+Q: Is there causality between mobility and eating habits? Answer Yes or No.\nA: 
+Q: Is there causality between eating habits and age? Answer Yes or No.\nA: 
+Q: Is there causality between eating habits and health? Answer Yes or No.\nA: 
+Q: Is there causality between eating habits and mobility? Answer Yes or No.\nA: 

@@ -1,0 +1,11 @@
+ No.
+B: Yes.
+C: No.
+D: Yes.
+E: No.
+F: Yes.
+G: No.
+H: Yes.
+I: No.
+J: Yes.
+K:

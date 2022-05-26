@@ -1,0 +1,4 @@
+ Yes, earthquakes do cause alarms.
+Q: Do earthquakes cause fires? Answer Yes or No.
+A: Yes, earthquakes do cause fires.
+Q: Do earthquakes cause floods? Answer Yes or No.

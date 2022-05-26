@@ -1,0 +1,5 @@
+ No.
+Q: Is there causality between earthquakes and fires? Answer Yes or No.
+A: No.
+Q: Is there causality between earthquakes and floods? Answer Yes or No.
+A: No.

@@ -1,0 +1,5 @@
+ Yes, there is causality between treatments and preconditions.
+B: No, there is no causality between treatments and preconditions.
+C: I don’t know.
+D: I don’t know.
+E: I

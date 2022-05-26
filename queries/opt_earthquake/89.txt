@@ -1,0 +1,6 @@
+ Yes.
+Q: Is there causality between burglaries and alarms? Answer Yes or No.
+A: No.
+Q: Is there causality between burglaries and alarms? Answer Yes or No.
+A: Yes.
+Q

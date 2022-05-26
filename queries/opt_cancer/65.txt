@@ -1,0 +1,6 @@
+ Smoking is a major risk factor for cancer.
+Q: Does smoking cause cancer? Answer Yes or No.
+A: Smoking causes cancer.
+Q: Does smoking cause lung cancer? Answer Yes or No.
+A: Smoking causes lung cancer.
+Q: Does

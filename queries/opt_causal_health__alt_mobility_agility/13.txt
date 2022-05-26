@@ -1,0 +1,7 @@
+ Yes.
+Q: Does health cause strength? Answer Yes or No.
+A: Yes.
+Q: Does health cause intelligence? Answer Yes or No.
+A: Yes.
+Q: Does health cause charisma? Answer Yes or No.
+A: Yes

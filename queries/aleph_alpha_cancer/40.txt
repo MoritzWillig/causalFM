@@ -1,0 +1,6 @@
+ No.
+Q: Does pollution cause drinking? Answer Yes or No.
+A: No.
+Q: Does pollution cause eating? Answer Yes or No.
+A: No.
+Q: Does pollution cause sleeping? Answer Yes or No

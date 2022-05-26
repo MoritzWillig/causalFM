@@ -1,0 +1,6 @@
+ Yes.
+Q: Does dyspnoea influence the severity of pollution? Answer Yes or No.
+A: Yes.
+Q: Does dyspnoea influence the duration of pollution? Answer Yes or No.
+A: Yes.
+Q

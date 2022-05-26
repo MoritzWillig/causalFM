@@ -1,0 +1,4 @@
+ Yes, the car type does cause the driving style.
+Q: Does the driving style cause the car type? Answer Yes or No.
+A: No, the driving style does not cause the car type.
+Q: Does the car type

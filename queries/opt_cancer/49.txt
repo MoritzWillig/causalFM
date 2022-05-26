@@ -1,0 +1,7 @@
+ No.
+Q: Does smoking cause cancer? Answer Yes or No.
+A: Yes.
+Q: Does smoking cause lung cancer? Answer Yes or No.
+A: Yes.
+Q: Does smoking cause mouth cancer? Answer Yes or No.
+A

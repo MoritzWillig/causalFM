@@ -1,0 +1,7 @@
+ Yes.
+Q: Does pollution cause birth defects? Answer Yes or No.
+A: Yes.
+Q: Does pollution cause asthma? Answer Yes or No.
+A: Yes.
+Q: Does pollution cause heart disease? Answer Yes or No.
+A

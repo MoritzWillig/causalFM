@@ -1,0 +1,7 @@
+
+
+If A causes B and B causes C, then A causes C.
+
+If A causes B and B does not cause C, then A does not cause C.
+
+If A causes B and B does not cause C, then A does not cause C

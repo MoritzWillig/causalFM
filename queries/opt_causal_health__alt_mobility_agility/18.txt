@@ -1,0 +1,7 @@
+ Yes.
+Q: Does age influence strength? Answer Yes or No.
+A: Yes.
+Q: Does age influence endurance? Answer Yes or No.
+A: Yes.
+Q: Does age influence flexibility? Answer Yes or No.
+A: Yes

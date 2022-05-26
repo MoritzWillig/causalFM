@@ -1,0 +1,3 @@
+ Yes, the car type and remaining fuel are causally related.
+B: No, the car type and remaining fuel are not causally related.
+C: It is not possible to say whether the car type and remaining fuel are causally related

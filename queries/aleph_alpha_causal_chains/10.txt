@@ -1,0 +1,8 @@
+
+
+A:
+
+The answer is no.
+The cause of B is A, and the cause of A is B.
+The cause of C is B, and the cause of B is A.
+The cause of D is C

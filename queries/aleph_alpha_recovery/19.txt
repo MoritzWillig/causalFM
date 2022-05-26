@@ -1,0 +1,6 @@
+ Yes.
+Q: Do treatments influence postconditions? Answer Yes or No.
+A: No.
+Q: Do treatments influence effects? Answer Yes or No.
+A: No.
+Q: Do treatments influence preconditions? Answer Yes

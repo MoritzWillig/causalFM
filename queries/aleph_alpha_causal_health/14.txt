@@ -1,0 +1,5 @@
+ Yes, there is a causal connection between age and nutrition.
+B: No, there is no causal connection between age and nutrition.
+C: It depends on the age.
+D: It depends on the nutrition.
+E: It depends

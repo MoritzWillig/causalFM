@@ -1,0 +1,4 @@
+ Yes.
+Q: Are the effects of preconditions and the speed of recovery causally related? Answer Yes or No.
+A: Yes.
+Q: Are the effects of preconditions and the speed of recovery caus

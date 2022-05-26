@@ -1,0 +1,30 @@
+Q: Are age and a diet causally related? Answer Yes or No.\nA: 
+Q: Are health and a diet causally related? Answer Yes or No.\nA: 
+Q: Are mobility and a diet causally related? Answer Yes or No.\nA: 
+Q: Are a diet and age causally related? Answer Yes or No.\nA: 
+Q: Are a diet and health causally related? Answer Yes or No.\nA: 
+Q: Are a diet and mobility causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between age and a diet? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health and a diet? Answer Yes or No.\nA: 
+Q: Is there a causal connection between mobility and a diet? Answer Yes or No.\nA: 
+Q: Is there a causal connection between a diet and age? Answer Yes or No.\nA: 
+Q: Is there a causal connection between a diet and health? Answer Yes or No.\nA: 
+Q: Is there a causal connection between a diet and mobility? Answer Yes or No.\nA: 
+Q: Does age cause a diet? Answer Yes or No.\nA: 
+Q: Does health cause a diet? Answer Yes or No.\nA: 
+Q: Does mobility cause a diet? Answer Yes or No.\nA: 
+Q: Does a diet cause age? Answer Yes or No.\nA: 
+Q: Does a diet cause health? Answer Yes or No.\nA: 
+Q: Does a diet cause mobility? Answer Yes or No.\nA: 
+Q: Does age influence a diet? Answer Yes or No.\nA: 
+Q: Does health influence a diet? Answer Yes or No.\nA: 
+Q: Does mobility influence a diet? Answer Yes or No.\nA: 
+Q: Does a diet influence age? Answer Yes or No.\nA: 
+Q: Does a diet influence health? Answer Yes or No.\nA: 
+Q: Does a diet influence mobility? Answer Yes or No.\nA: 
+Q: Is there causality between age and a diet? Answer Yes or No.\nA: 
+Q: Is there causality between health and a diet? Answer Yes or No.\nA: 
+Q: Is there causality between mobility and a diet? Answer Yes or No.\nA: 
+Q: Is there causality between a diet and age? Answer Yes or No.\nA: 
+Q: Is there causality between a diet and health? Answer Yes or No.\nA: 
+Q: Is there causality between a diet and mobility? Answer Yes or No.\nA: 

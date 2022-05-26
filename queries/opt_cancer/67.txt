@@ -1,0 +1,4 @@
+ Smoking does not influence dyspnoea.
+Q: Does smoking influence the severity of dyspnoea? Answer Yes or No.
+A: Smoking does not influence the severity of dyspnoea.
+Q: Does smoking influence the duration of

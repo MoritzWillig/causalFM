@@ -1,0 +1,5 @@
+ No.
+Q: Does the health of a creature increase when it moves? Answer Yes or No.
+A: No.
+Q: Does the health of a creature decrease when it moves? Answer Yes or No.
+A: No.

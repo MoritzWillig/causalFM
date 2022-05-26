@@ -1,0 +1,4 @@
+ Yes, there is a causal relationship between mobility and health.
+Q: Is there causality between mobility and health? Answer Yes or No.
+A: No, there is no causal relationship between mobility and health.
+Q: Is there caus

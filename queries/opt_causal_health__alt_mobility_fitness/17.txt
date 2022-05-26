@@ -1,0 +1,7 @@
+ Yes.
+Q: Does fitness cause nutrition? Answer Yes or No.
+A: Yes.
+Q: Does fitness cause health? Answer Yes or No.
+A: Yes.
+Q: Does health cause fitness? Answer Yes or No.
+A: Yes

@@ -1,0 +1,8 @@
+ Yes
+B: No
+C: I don't know
+D: I don't care
+
+Q: Are calls from John and calls from Mary causally related? Answer Yes or No.
+A: Yes
+B: No

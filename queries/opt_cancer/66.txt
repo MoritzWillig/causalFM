@@ -1,0 +1,4 @@
+ Smoking does not influence x-ray examinations.
+Q: Does smoking influence x-ray examinations? Answer Yes or No.
+A: Smoking does not influence x-ray examinations.
+Q: Does smoking influence x-ray examinations? Answer Yes or No

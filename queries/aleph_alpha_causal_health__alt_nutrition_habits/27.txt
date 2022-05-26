@@ -1,0 +1,4 @@
+ Yes, there is causality between eating habits and age.
+Q: Is there causality between eating habits and age? Answer Yes or No.
+A: No, there is no causality between eating habits and age.
+Q: Is

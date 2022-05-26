@@ -1,0 +1,3 @@
+
+
+It is possible that A causes C, but it is also possible that A and C are unrelated.

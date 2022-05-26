@@ -1,0 +1,6 @@
+ Yes.
+Q: Does dyspnoea cause ECG examinations? Answer Yes or No.
+A: Yes.
+Q: Does dyspnoea cause blood tests? Answer Yes or No.
+A: Yes.
+Q

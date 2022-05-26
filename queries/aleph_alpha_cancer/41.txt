@@ -1,0 +1,6 @@
+ No.
+Q: Does smoking cause cancer? Answer Yes or No.
+A: No.
+Q: Does alcohol cause cancer? Answer Yes or No.
+A: No.
+Q: Does obesity cause cancer? Answer Yes or No

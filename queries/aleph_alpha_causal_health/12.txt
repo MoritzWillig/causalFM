@@ -1,0 +1,5 @@
+ Yes, there is a causal connection between age and health.
+B: No, there is no causal connection between age and health.
+C: It depends on the health condition.
+D: It depends on the age.
+E: It

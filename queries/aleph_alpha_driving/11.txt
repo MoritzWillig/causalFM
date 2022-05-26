@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between the car type and the driving style.
+B: No, there is no causal connection between the car type and the driving style.
+C: It depends on the car type.
+D: It depends

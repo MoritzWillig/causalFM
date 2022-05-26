@@ -1,0 +1,5 @@
+ Yes.
+Q: Are burglaries causally related to the number of alarms? Answer Yes or No.
+A: Yes.
+Q: Are burglaries causally related to the number of burglaries? Answer Yes or No.
+A:

@@ -1,0 +1,6 @@
+ No.
+Q: Are treatments and outcomes causally related? Answer Yes or No.
+A: No.
+Q: Are treatments and preconditions causally related? Answer Yes or No.
+A: No.
+Q: Are treatments

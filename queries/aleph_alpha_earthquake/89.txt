@@ -1,0 +1,4 @@
+ Yes, there is a causal relationship between alarms and burglaries.
+B: No, there is no causal relationship between alarms and burglaries.
+C: It depends on the type of alarm.
+D: It depends on the type

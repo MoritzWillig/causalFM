@@ -1,0 +1,6 @@
+ No.
+Q: Do earthquakes influence burglaries? Answer Yes or No.
+A: No.
+Q: Do earthquakes influence the stock market? Answer Yes or No.
+A: No.
+Q: Do earthquakes influence the weather? Answer Yes or No

@@ -1,0 +1,6 @@
+ Yes.
+Q: Do treatments cause postconditions? Answer Yes or No.
+A: Yes.
+Q: Do treatments cause side effects? Answer Yes or No.
+A: Yes.
+Q: Do treatments cause side effects that are

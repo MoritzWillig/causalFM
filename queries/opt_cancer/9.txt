@@ -1,0 +1,4 @@
+ Smoking is a risk factor for cancer.
+Q: Is there a relationship between cancer and smoking? Answer Yes or No.
+A: Yes, smoking is a risk factor for cancer.
+Q: Is there a relationship between cancer and smoking? Answer Yes

@@ -1,0 +1,4 @@
+ No, because the burglary is not a crime.
+B: Yes, because the burglary is a crime.
+C: No, because the burglary is not a crime.
+D: Yes, because the burglary is a crime

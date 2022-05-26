@@ -1,0 +1,3 @@
+
+
+If one of the supports is removed, the block will fall.

@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between nutrition and healthiness.
+B: No, there is no causal connection between nutrition and healthiness.
+C: It depends on the type of nutrition.
+D: It depends on the type of health

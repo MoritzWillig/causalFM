@@ -1,0 +1,7 @@
+ Yes.
+Q: Does nutrition influence fitness? Answer Yes or No.
+A: Yes.
+Q: Does fitness influence nutrition? Answer Yes or No.
+A: Yes.
+Q: Does nutrition influence fitness? Answer Yes or No.
+A: Yes

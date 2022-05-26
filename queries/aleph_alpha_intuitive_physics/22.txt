@@ -1,0 +1,8 @@
+
+A. The heavier object
+B. The lighter object
+C. The seesaw will move up
+D. The seesaw will move down
+Answer: A
+Explanation:
+The heavier object will move up.

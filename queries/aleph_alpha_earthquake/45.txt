@@ -1,0 +1,4 @@
+ No, alarms are not caused by burglaries.
+Q: Do burglaries cause fires? Answer Yes or No.
+A: No, burglaries do not cause fires.
+Q: Do burglaries cause earthquakes? Answer Yes or

@@ -1,0 +1,5 @@
+ No.
+Q: Are calls from John and calls from Mary causally related? Answer Yes or No.
+A: Yes.
+Q: Are calls from John and calls from Mary causally related? Answer Yes or No.
+A:

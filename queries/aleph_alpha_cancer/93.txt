@@ -1,0 +1,3 @@
+ Yes, there is a causal relationship between x-ray examinations and smoking.
+Q: Is there causality between x-ray examinations and smoking? Answer Yes or No.
+A: Yes, there is a causal relationship between x-ray examinations

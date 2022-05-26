@@ -1,0 +1,6 @@
+ Yes
+Q: Do burglaries cause calls from Mary? Answer Yes or No.
+A: No
+Q: Do burglaries cause calls from Mary? Answer Yes or No.
+A: No
+Q: Do burglaries cause calls from Mary?

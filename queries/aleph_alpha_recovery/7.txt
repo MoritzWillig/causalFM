@@ -1,0 +1,5 @@
+ Yes.
+Q: Is there a causal connection between treatments and preconditions? Answer Yes or No.
+A: No.
+Q: Is there a causal connection between treatments and preconditions? Answer Yes or No.
+A: Yes.

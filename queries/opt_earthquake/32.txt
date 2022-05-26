@@ -1,0 +1,4 @@
+ No.
+Q: Is there a causal connection between calls from John and hurricanes? Answer Yes or No.
+A: No.
+Q: Is there a causal connection between calls from John and tornadoes? Answer Yes or No.

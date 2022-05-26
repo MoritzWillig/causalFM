@@ -1,0 +1,4 @@
+ Yes, smoking does influence dyspnoea.
+Q: Does smoking influence dyspnoea? Answer Yes or No.
+A: Yes, smoking does influence dyspnoea.
+Q: Does smoking influence dyspnoea?

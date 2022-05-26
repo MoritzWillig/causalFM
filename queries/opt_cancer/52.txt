@@ -1,0 +1,6 @@
+ Yes.
+Q: Do x-ray examinations cause cancer? Answer Yes or No.
+A: Yes.
+Q: Do x-ray examinations cause infertility? Answer Yes or No.
+A: Yes.
+Q: Do x-ray examinations

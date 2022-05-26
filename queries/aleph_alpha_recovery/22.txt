@@ -1,0 +1,6 @@
+ Yes.
+Q: Do postconditions influence treatments? Answer Yes or No.
+A: Yes.
+Q: Do side effects influence treatments? Answer Yes or No.
+A: Yes.
+Q: Do treatments influence side effects? Answer

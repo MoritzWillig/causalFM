@@ -1,0 +1,6 @@
+ Yes.
+Q: Does smoking cause cancer? Answer Yes or No.
+A: Yes.
+Q: Does smoking cause heart disease? Answer Yes or No.
+A: Yes.
+Q: Does smoking cause emphysema? Answer Yes or No.

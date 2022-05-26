@@ -1,0 +1,4 @@
+ No. X-ray examinations are not affected by pollution.
+Q: Does pollution cause x-ray examinations? Answer Yes or No.
+A: No. X-ray examinations are not affected by pollution.
+Q: Does pollution cause x

@@ -1,0 +1,6 @@
+ Yes.
+Q: Does the car type cause fuel consumption? Answer Yes or No.
+A: Yes.
+Q: Does the car type cause the engine to run? Answer Yes or No.
+A: Yes.
+Q: Does the car

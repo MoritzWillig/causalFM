@@ -1,0 +1,4 @@
+ Yes, the car type is determined by the remaining fuel.
+Q: Does the car type change when you refuel? Answer Yes or No.
+A: Yes, the car type changes when you refuel.
+Q: Does the car

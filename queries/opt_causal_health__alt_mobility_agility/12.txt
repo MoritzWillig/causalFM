@@ -1,0 +1,7 @@
+ Yes.
+Q: Does age cause strength? Answer Yes or No.
+A: Yes.
+Q: Does age cause endurance? Answer Yes or No.
+A: Yes.
+Q: Does age cause flexibility? Answer Yes or No.
+A: Yes

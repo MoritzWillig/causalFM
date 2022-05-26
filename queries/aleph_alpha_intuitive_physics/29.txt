@@ -1,0 +1,6 @@
+
+
+A. The bottle will break.
+B. The bottle will not break.
+C. The bottle will break and the person will fall to the ground.
+D. The bottle will not break and the person will fall to the ground

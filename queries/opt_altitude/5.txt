@@ -1,0 +1,6 @@
+ Temperature does not cause altitude.
+Q: Does altitude cause temperature? Answer Yes or No.
+A: Temperature does not cause altitude.
+Q: Does altitude cause temperature? Answer Yes or No.
+A: Temperature does not cause altitude.
+Q: Does altitude

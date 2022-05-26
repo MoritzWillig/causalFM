@@ -1,0 +1,6 @@
+ Yes.
+Q: Are calls from John causally related to earthquakes? Answer Yes or No.
+A: Yes.
+Q: Are calls from John causally related to earthquakes? Answer Yes or No.
+A: Yes.
+Q

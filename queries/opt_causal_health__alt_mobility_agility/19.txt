@@ -1,0 +1,7 @@
+ Yes.
+Q: Does health influence strength? Answer Yes or No.
+A: Yes.
+Q: Does health influence intelligence? Answer Yes or No.
+A: Yes.
+Q: Does health influence charisma? Answer Yes or No.
+A: Yes

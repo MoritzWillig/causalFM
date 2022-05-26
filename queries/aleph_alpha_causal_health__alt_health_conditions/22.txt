@@ -1,0 +1,3 @@
+ Yes, mobility does influence health conditions.
+Q: Does the number of health conditions influence the amount of health points you have? Answer Yes or No.
+A: Yes, the number of health conditions does influence the amount of health points you have

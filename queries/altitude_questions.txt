@@ -1,0 +1,10 @@
+Q: Are altitude and temperature causally related? Answer Yes or No.\nA: 
+Q: Are temperature and altitude causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between altitude and temperature? Answer Yes or No.\nA: 
+Q: Is there a causal connection between temperature and altitude? Answer Yes or No.\nA: 
+Q: Does altitude cause temperature? Answer Yes or No.\nA: 
+Q: Does temperature cause altitude? Answer Yes or No.\nA: 
+Q: Does altitude influence temperature? Answer Yes or No.\nA: 
+Q: Does temperature influence altitude? Answer Yes or No.\nA: 
+Q: Is there causality between altitude and temperature? Answer Yes or No.\nA: 
+Q: Is there causality between temperature and altitude? Answer Yes or No.\nA: 

@@ -1,0 +1,5 @@
+ Temperature does not influence altitude.
+Q: Does altitude influence temperature? Answer Yes or No.
+A: Altitude does not influence temperature.
+Q: Does temperature influence altitude? Answer Yes or No.
+A: Temperature does not influence altitude

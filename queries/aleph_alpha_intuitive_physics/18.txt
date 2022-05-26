@@ -1,0 +1,8 @@
+
+
+A:
+
+The ball with the higher mass will bounce away.
+The reason is that the force of gravity is proportional to the mass of the object.
+The force of gravity is:
+$$F = -GmM/

@@ -1,0 +1,4 @@
+ Yes, health does influence mobility.
+Q: Does health influence the amount of damage you take? Answer Yes or No.
+A: Yes, health does influence the amount of damage you take.
+Q: Does health influence the amount of damage

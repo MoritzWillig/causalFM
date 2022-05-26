@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between earthquakes and burglaries.
+B: No, there is no causal connection between earthquakes and burglaries.
+C: It depends on the type of earthquake.
+D: It depends on the type

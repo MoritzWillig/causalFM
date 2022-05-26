@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between mobility and eating habits.
+Q: Is there a causal connection between mobility and eating habits? Answer Yes or No.
+A: No, there is no causal connection between mobility and eating habits.
+Q

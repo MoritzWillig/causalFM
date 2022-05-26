@@ -1,0 +1,6 @@
+ No.
+Q: Does a diet cause weight loss? Answer Yes or No.
+A: No.
+Q: Does a diet cause weight gain? Answer Yes or No.
+A: No.
+Q: Does a diet cause weight loss? Answer Yes

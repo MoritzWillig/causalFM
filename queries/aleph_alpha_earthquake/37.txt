@@ -1,0 +1,3 @@
+ No, there is no causal connection between calls from Mary and burglaries.
+B: Yes, there is a causal connection between calls from Mary and burglaries.
+C: No, there is no causal connection between calls from Mary and burglaries

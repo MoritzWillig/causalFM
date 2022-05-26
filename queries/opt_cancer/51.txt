@@ -1,0 +1,6 @@
+ Yes.
+Q: Does cancer cause fatigue? Answer Yes or No.
+A: Yes.
+Q: Does cancer cause weight loss? Answer Yes or No.
+A: Yes.
+Q: Does cancer cause constipation? Answer Yes or No

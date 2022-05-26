@@ -1,0 +1,6 @@
+ Yes.
+Q: Does a diet influence the risk of developing osteoporosis? Answer Yes or No.
+A: Yes.
+Q: Does a diet influence the risk of developing cardiovascular disease? Answer Yes or No.
+A: Yes.
+Q

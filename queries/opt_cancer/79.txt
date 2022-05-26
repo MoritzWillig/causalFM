@@ -1,0 +1,4 @@
+ Yes.
+Q: Does dyspnoea influence the interpretation of x-ray examinations? Answer Yes or No.
+A: Yes.
+Q: Does dyspnoea influence the interpretation of CT examinations? Answer Yes or No.

@@ -1,0 +1,6 @@
+ Agility does not influence health.
+Q: Does agility influence stamina? Answer Yes or No.
+A: Agility does not influence stamina.
+Q: Does agility influence attack power? Answer Yes or No.
+A: Agility does not influence attack power.
+Q:

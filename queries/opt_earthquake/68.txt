@@ -1,0 +1,6 @@
+ No.
+Q: Do earthquakes influence alarms? Answer Yes or No.
+A: Yes.
+Q: Do earthquakes influence alarms in the same way that they influence earthquakes? Answer Yes or No.
+A: No.
+Q: Do earthquakes influence alarms in the

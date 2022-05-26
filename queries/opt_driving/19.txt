@@ -1,0 +1,6 @@
+ No.
+Q: Does the car type influence the car's performance? Answer Yes or No.
+A: No.
+Q: Does the car type influence the car's handling? Answer Yes or No.
+A: No.
+Q: Does

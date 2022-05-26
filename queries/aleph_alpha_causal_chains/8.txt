@@ -1,0 +1,7 @@
+
+
+A:
+
+The answer is yes.
+The cause of A is B, the cause of B is C, the cause of C is D, the cause of D is E, the cause of E is F.
+So the

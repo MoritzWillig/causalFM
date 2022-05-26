@@ -1,0 +1,6 @@
+ Yes.
+Q: Does pollution influence the incidence of cancer? Answer Yes or No.
+A: Yes.
+Q: Does pollution influence the mortality rate from cancer? Answer Yes or No.
+A: Yes.
+Q: Does pollution influence the incidence of cancer

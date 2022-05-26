@@ -1,0 +1,4 @@
+ No.
+Q: Is there a causal connection between cancer and x-ray examinations? Answer Yes or No.
+A: No.
+Q: Is there a causal connection between cancer and x-ray examinations? Answer Yes or No.

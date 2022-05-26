@@ -1,0 +1,5 @@
+ No.
+Q: Is there causality between pollution and x-ray examinations? Answer Yes or No.
+A: No.
+Q: Is there causality between pollution and x-ray examinations? Answer Yes or No.
+A:

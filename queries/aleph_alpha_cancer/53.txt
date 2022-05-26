@@ -1,0 +1,4 @@
+ No, x-ray examinations do not cause smoking.
+Q: Do x-ray examinations cause cancer? Answer Yes or No.
+A: No, x-ray examinations do not cause cancer.
+Q: Do x-ray examinations cause

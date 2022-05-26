@@ -1,0 +1,4 @@
+ Yes, there is a causal relationship between pollution and cancer.
+Q: Is there causality between pollution and cancer? Answer Yes or No.
+A: No, there is no causal relationship between pollution and cancer.
+Q: Is there caus

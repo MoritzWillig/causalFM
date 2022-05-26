@@ -1,0 +1,3 @@
+ Yes, there is causality between smoking and dyspnoea.
+Q: Is there causality between dyspnoea and cough? Answer Yes or No.
+A: Yes, there is causality between dyspnoea and cough

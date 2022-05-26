@@ -1,0 +1,7 @@
+ Yes.
+Q: Does aging cause disease? Answer Yes or No.
+A: Yes.
+Q: Does aging cause death? Answer Yes or No.
+A: Yes.
+Q: Does aging cause death? Answer Yes or No.
+A: Yes

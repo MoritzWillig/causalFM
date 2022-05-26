@@ -1,0 +1,4 @@
+ Smoking is a risk factor for dyspnoea.
+Q: Are smoking and dyspnoea causally related? Answer Yes or No.
+A: Smoking is a risk factor for dyspnoea.
+Q: Are smoking

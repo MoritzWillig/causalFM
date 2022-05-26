@@ -1,0 +1,4 @@
+ Yes, the car type influences remaining fuel.
+Q: Does the car type influence the fuel consumption? Answer Yes or No.
+A: Yes, the car type influences fuel consumption.
+Q: Does the car type influence the fuel consumption in

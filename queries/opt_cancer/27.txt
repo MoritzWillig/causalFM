@@ -1,0 +1,4 @@
+ Yes.
+Q: Is there a causal connection between smoking and dyspnoea? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between smoking and dyspnoea? Answer Yes or

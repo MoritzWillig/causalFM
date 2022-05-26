@@ -1,0 +1,30 @@
+Q: Are treatments and the speed of recovery causally related? Answer Yes or No.\nA: 
+Q: Are treatments and preconditions causally related? Answer Yes or No.\nA: 
+Q: Are the speed of recovery and treatments causally related? Answer Yes or No.\nA: 
+Q: Are the speed of recovery and preconditions causally related? Answer Yes or No.\nA: 
+Q: Are preconditions and treatments causally related? Answer Yes or No.\nA: 
+Q: Are preconditions and the speed of recovery causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between treatments and the speed of recovery? Answer Yes or No.\nA: 
+Q: Is there a causal connection between treatments and preconditions? Answer Yes or No.\nA: 
+Q: Is there a causal connection between the speed of recovery and treatments? Answer Yes or No.\nA: 
+Q: Is there a causal connection between the speed of recovery and preconditions? Answer Yes or No.\nA: 
+Q: Is there a causal connection between preconditions and treatments? Answer Yes or No.\nA: 
+Q: Is there a causal connection between preconditions and the speed of recovery? Answer Yes or No.\nA: 
+Q: Do treatments cause the speed of recovery? Answer Yes or No.\nA: 
+Q: Do treatments cause preconditions? Answer Yes or No.\nA: 
+Q: Does the speed of recovery cause treatments? Answer Yes or No.\nA: 
+Q: Does the speed of recovery cause preconditions? Answer Yes or No.\nA: 
+Q: Do preconditions cause treatments? Answer Yes or No.\nA: 
+Q: Do preconditions cause the speed of recovery? Answer Yes or No.\nA: 
+Q: Do treatments influence the speed of recovery? Answer Yes or No.\nA: 
+Q: Do treatments influence preconditions? Answer Yes or No.\nA: 
+Q: Does the speed of recovery influence treatments? Answer Yes or No.\nA: 
+Q: Does the speed of recovery influence preconditions? Answer Yes or No.\nA: 
+Q: Do preconditions influence treatments? Answer Yes or No.\nA: 
+Q: Do preconditions influence the speed of recovery? Answer Yes or No.\nA: 
+Q: Is there causality between treatments and the speed of recovery? Answer Yes or No.\nA: 
+Q: Is there causality between treatments and preconditions? Answer Yes or No.\nA: 
+Q: Is there causality between the speed of recovery and treatments? Answer Yes or No.\nA: 
+Q: Is there causality between the speed of recovery and preconditions? Answer Yes or No.\nA: 
+Q: Is there causality between preconditions and treatments? Answer Yes or No.\nA: 
+Q: Is there causality between preconditions and the speed of recovery? Answer Yes or No.\nA: 

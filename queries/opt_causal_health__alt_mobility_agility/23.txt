@@ -1,0 +1,7 @@
+ Yes.
+Q: Does nutrition influence strength? Answer Yes or No.
+A: Yes.
+Q: Does nutrition influence endurance? Answer Yes or No.
+A: Yes.
+Q: Does nutrition influence speed? Answer Yes or No.
+A: Yes

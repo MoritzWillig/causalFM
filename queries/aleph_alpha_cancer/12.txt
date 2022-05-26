@@ -1,0 +1,3 @@
+ No, x-ray examinations are not causally related to pollution.
+Q: Are x-ray examinations and pollution causally related? Answer Yes or No.
+A: No, x-ray examinations are not causally related to pollution.

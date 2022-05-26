@@ -1,0 +1,7 @@
+ Yes.
+Q: Do alarms cause fires? Answer Yes or No.
+A: Yes.
+Q: Do alarms cause injuries? Answer Yes or No.
+A: Yes.
+Q: Do alarms cause property damage? Answer Yes or No.
+A

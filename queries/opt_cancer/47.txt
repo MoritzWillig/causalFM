@@ -1,0 +1,6 @@
+ Smoking causes dyspnoea.
+Q: Does smoking cause asthma? Answer Yes or No.
+A: Smoking causes asthma.
+Q: Does smoking cause COPD? Answer Yes or No.
+A: Smoking causes COPD.
+Q:

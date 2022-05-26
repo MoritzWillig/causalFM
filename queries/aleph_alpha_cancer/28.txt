@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between cancer and pollution.
+Q: Is there a causal connection between cancer and smoking? Answer Yes or No.
+A: Yes, there is a causal connection between cancer and smoking.
+Q: Is there

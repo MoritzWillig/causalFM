@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between temperature and altitude.
+Q: Is there a causal connection between temperature and latitude? Answer Yes or No.
+A: Yes, there is a causal connection between temperature and latitude.
+Q: Is there

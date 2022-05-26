@@ -1,0 +1,6 @@
+ Yes.
+Q: Is there a causal connection between age and health? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between age and health? Answer Yes or No.
+A: Yes.
+Q

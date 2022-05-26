@@ -1,0 +1,4 @@
+ Yes, there is causality between smoking and cancer.
+Q: Is there causality between smoking and cancer? Answer Yes or No.
+A: No, there is no causality between smoking and cancer.
+Q: Is there causality

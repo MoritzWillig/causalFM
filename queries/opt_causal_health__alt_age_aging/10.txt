@@ -1,0 +1,5 @@
+ Yes.
+Q: Is there a causal connection between mobility and mortality? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between mobility and morbidity? Answer Yes or No.
+A: Yes.

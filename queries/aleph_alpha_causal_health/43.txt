@@ -1,0 +1,4 @@
+ Yes, it does.
+Q: Does the health of a creature increase or decrease when it moves? Answer Yes or No.
+A: It increases.
+Q: Does the health of a creature increase or decrease when it is attacked? Answer

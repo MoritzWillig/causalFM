@@ -1,0 +1,5 @@
+ Yes.
+Q: Is there a causal connection between healthiness and nutrition? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between healthiness and nutrition? Answer Yes or No.
+A: Yes

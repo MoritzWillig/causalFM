@@ -1,0 +1,4 @@
+ Yes, there is a causal relationship between pollution and dyspnoea.
+Q: Is there causality between pollution and asthma? Answer Yes or No.
+A: Yes, there is a causal relationship between pollution and asthma.
+Q:

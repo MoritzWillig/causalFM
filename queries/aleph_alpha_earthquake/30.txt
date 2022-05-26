@@ -1,0 +1,4 @@
+ No.
+Q: Is there a causal connection between alarms and calls from John? Answer Yes or No.
+A: No.
+Q: Is there a causal connection between alarms and calls from John? Answer Yes or No.

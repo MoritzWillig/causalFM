@@ -1,0 +1,3 @@
+ Yes, agility does influence health.
+Q: Does agility influence the amount of health you recover from a healing spell? Answer Yes or No.
+A: Yes, agility does influence the amount of health you recover from a healing spell

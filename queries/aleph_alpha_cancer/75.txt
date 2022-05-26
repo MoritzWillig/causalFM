@@ -1,0 +1,4 @@
+ Yes, x-ray examinations can influence dyspnoea.
+Q: Do x-ray examinations influence dyspnoea? Answer Yes or No.
+A: Yes, x-ray examinations can influence dyspnoea.
+Q

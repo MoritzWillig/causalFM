@@ -1,0 +1,6 @@
+ Agility does not cause health.
+Q: Does agility cause stamina? Answer Yes or No.
+A: Agility does not cause stamina.
+Q: Does agility cause magicka? Answer Yes or No.
+A: Agility does not cause magicka.
+Q:

@@ -1,0 +1,4 @@
+ Yes, there is causality between health conditions and age.
+Q: Is there causality between health conditions and age? Answer Yes or No.
+A: Yes, there is causality between health conditions and age.
+Q: Is there

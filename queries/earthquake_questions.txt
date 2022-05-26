@@ -1,0 +1,100 @@
+Q: Are earthquakes and burglaries causally related? Answer Yes or No.\nA: 
+Q: Are earthquakes and alarms causally related? Answer Yes or No.\nA: 
+Q: Are earthquakes and calls from John causally related? Answer Yes or No.\nA: 
+Q: Are earthquakes and calls from Mary causally related? Answer Yes or No.\nA: 
+Q: Are burglaries and earthquakes causally related? Answer Yes or No.\nA: 
+Q: Are burglaries and alarms causally related? Answer Yes or No.\nA: 
+Q: Are burglaries and calls from John causally related? Answer Yes or No.\nA: 
+Q: Are burglaries and calls from Mary causally related? Answer Yes or No.\nA: 
+Q: Are alarms and earthquakes causally related? Answer Yes or No.\nA: 
+Q: Are alarms and burglaries causally related? Answer Yes or No.\nA: 
+Q: Are alarms and calls from John causally related? Answer Yes or No.\nA: 
+Q: Are alarms and calls from Mary causally related? Answer Yes or No.\nA: 
+Q: Are calls from John and earthquakes causally related? Answer Yes or No.\nA: 
+Q: Are calls from John and burglaries causally related? Answer Yes or No.\nA: 
+Q: Are calls from John and alarms causally related? Answer Yes or No.\nA: 
+Q: Are calls from John and calls from Mary causally related? Answer Yes or No.\nA: 
+Q: Are calls from Mary and earthquakes causally related? Answer Yes or No.\nA: 
+Q: Are calls from Mary and burglaries causally related? Answer Yes or No.\nA: 
+Q: Are calls from Mary and alarms causally related? Answer Yes or No.\nA: 
+Q: Are calls from Mary and calls from John causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between earthquakes and burglaries? Answer Yes or No.\nA: 
+Q: Is there a causal connection between earthquakes and alarms? Answer Yes or No.\nA: 
+Q: Is there a causal connection between earthquakes and calls from John? Answer Yes or No.\nA: 
+Q: Is there a causal connection between earthquakes and calls from Mary? Answer Yes or No.\nA: 
+Q: Is there a causal connection between burglaries and earthquakes? Answer Yes or No.\nA: 
+Q: Is there a causal connection between burglaries and alarms? Answer Yes or No.\nA: 
+Q: Is there a causal connection between burglaries and calls from John? Answer Yes or No.\nA: 
+Q: Is there a causal connection between burglaries and calls from Mary? Answer Yes or No.\nA: 
+Q: Is there a causal connection between alarms and earthquakes? Answer Yes or No.\nA: 
+Q: Is there a causal connection between alarms and burglaries? Answer Yes or No.\nA: 
+Q: Is there a causal connection between alarms and calls from John? Answer Yes or No.\nA: 
+Q: Is there a causal connection between alarms and calls from Mary? Answer Yes or No.\nA: 
+Q: Is there a causal connection between calls from John and earthquakes? Answer Yes or No.\nA: 
+Q: Is there a causal connection between calls from John and burglaries? Answer Yes or No.\nA: 
+Q: Is there a causal connection between calls from John and alarms? Answer Yes or No.\nA: 
+Q: Is there a causal connection between calls from John and calls from Mary? Answer Yes or No.\nA: 
+Q: Is there a causal connection between calls from Mary and earthquakes? Answer Yes or No.\nA: 
+Q: Is there a causal connection between calls from Mary and burglaries? Answer Yes or No.\nA: 
+Q: Is there a causal connection between calls from Mary and alarms? Answer Yes or No.\nA: 
+Q: Is there a causal connection between calls from Mary and calls from John? Answer Yes or No.\nA: 
+Q: Do earthquakes cause burglaries? Answer Yes or No.\nA: 
+Q: Do earthquakes cause alarms? Answer Yes or No.\nA: 
+Q: Do earthquakes cause calls from John? Answer Yes or No.\nA: 
+Q: Do earthquakes cause calls from Mary? Answer Yes or No.\nA: 
+Q: Do burglaries cause earthquakes? Answer Yes or No.\nA: 
+Q: Do burglaries cause alarms? Answer Yes or No.\nA: 
+Q: Do burglaries cause calls from John? Answer Yes or No.\nA: 
+Q: Do burglaries cause calls from Mary? Answer Yes or No.\nA: 
+Q: Do alarms cause earthquakes? Answer Yes or No.\nA: 
+Q: Do alarms cause burglaries? Answer Yes or No.\nA: 
+Q: Do alarms cause calls from John? Answer Yes or No.\nA: 
+Q: Do alarms cause calls from Mary? Answer Yes or No.\nA: 
+Q: Do calls from John cause earthquakes? Answer Yes or No.\nA: 
+Q: Do calls from John cause burglaries? Answer Yes or No.\nA: 
+Q: Do calls from John cause alarms? Answer Yes or No.\nA: 
+Q: Do calls from John cause calls from Mary? Answer Yes or No.\nA: 
+Q: Do calls from Mary cause earthquakes? Answer Yes or No.\nA: 
+Q: Do calls from Mary cause burglaries? Answer Yes or No.\nA: 
+Q: Do calls from Mary cause alarms? Answer Yes or No.\nA: 
+Q: Do calls from Mary cause calls from John? Answer Yes or No.\nA: 
+Q: Do earthquakes influence burglaries? Answer Yes or No.\nA: 
+Q: Do earthquakes influence alarms? Answer Yes or No.\nA: 
+Q: Do earthquakes influence calls from John? Answer Yes or No.\nA: 
+Q: Do earthquakes influence calls from Mary? Answer Yes or No.\nA: 
+Q: Do burglaries influence earthquakes? Answer Yes or No.\nA: 
+Q: Do burglaries influence alarms? Answer Yes or No.\nA: 
+Q: Do burglaries influence calls from John? Answer Yes or No.\nA: 
+Q: Do burglaries influence calls from Mary? Answer Yes or No.\nA: 
+Q: Do alarms influence earthquakes? Answer Yes or No.\nA: 
+Q: Do alarms influence burglaries? Answer Yes or No.\nA: 
+Q: Do alarms influence calls from John? Answer Yes or No.\nA: 
+Q: Do alarms influence calls from Mary? Answer Yes or No.\nA: 
+Q: Do calls from John influence earthquakes? Answer Yes or No.\nA: 
+Q: Do calls from John influence burglaries? Answer Yes or No.\nA: 
+Q: Do calls from John influence alarms? Answer Yes or No.\nA: 
+Q: Do calls from John influence calls from Mary? Answer Yes or No.\nA: 
+Q: Do calls from Mary influence earthquakes? Answer Yes or No.\nA: 
+Q: Do calls from Mary influence burglaries? Answer Yes or No.\nA: 
+Q: Do calls from Mary influence alarms? Answer Yes or No.\nA: 
+Q: Do calls from Mary influence calls from John? Answer Yes or No.\nA: 
+Q: Is there causality between earthquakes and burglaries? Answer Yes or No.\nA: 
+Q: Is there causality between earthquakes and alarms? Answer Yes or No.\nA: 
+Q: Is there causality between earthquakes and calls from John? Answer Yes or No.\nA: 
+Q: Is there causality between earthquakes and calls from Mary? Answer Yes or No.\nA: 
+Q: Is there causality between burglaries and earthquakes? Answer Yes or No.\nA: 
+Q: Is there causality between burglaries and alarms? Answer Yes or No.\nA: 
+Q: Is there causality between burglaries and calls from John? Answer Yes or No.\nA: 
+Q: Is there causality between burglaries and calls from Mary? Answer Yes or No.\nA: 
+Q: Is there causality between alarms and earthquakes? Answer Yes or No.\nA: 
+Q: Is there causality between alarms and burglaries? Answer Yes or No.\nA: 
+Q: Is there causality between alarms and calls from John? Answer Yes or No.\nA: 
+Q: Is there causality between alarms and calls from Mary? Answer Yes or No.\nA: 
+Q: Is there causality between calls from John and earthquakes? Answer Yes or No.\nA: 
+Q: Is there causality between calls from John and burglaries? Answer Yes or No.\nA: 
+Q: Is there causality between calls from John and alarms? Answer Yes or No.\nA: 
+Q: Is there causality between calls from John and calls from Mary? Answer Yes or No.\nA: 
+Q: Is there causality between calls from Mary and earthquakes? Answer Yes or No.\nA: 
+Q: Is there causality between calls from Mary and burglaries? Answer Yes or No.\nA: 
+Q: Is there causality between calls from Mary and alarms? Answer Yes or No.\nA: 
+Q: Is there causality between calls from Mary and calls from John? Answer Yes or No.\nA: 

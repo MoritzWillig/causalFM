@@ -1,0 +1,6 @@
+ Yes
+Q: Do calls from John cause calls from Mary? Answer Yes or No.
+A: No
+Q: Do calls from Mary cause calls from John? Answer Yes or No.
+A: No
+Q: Do calls from John cause

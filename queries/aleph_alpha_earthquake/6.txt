@@ -1,0 +1,5 @@
+ Yes, they are causally related.
+B: No, they are not causally related.
+C: It depends on the time of day.
+D: It depends on the day of the week.
+E: It depends on the

@@ -1,0 +1,5 @@
+ Yes, there is a causal connection between age and agility.
+B: No, there is no causal connection between age and agility.
+C: I don’t know.
+D: I don’t know.
+E:

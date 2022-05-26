@@ -1,0 +1,5 @@
+ Yes.
+Q: Are the car type and driving style causally related? Answer Yes or No.
+A: Yes.
+Q: Are the car type and driving style causally related? Answer Yes or No.
+A: Yes

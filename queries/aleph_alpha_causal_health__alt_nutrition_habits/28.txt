@@ -1,0 +1,4 @@
+ Yes, there is a strong correlation between eating habits and health.
+Q: Is there causality between eating habits and health? Answer Yes or No.
+A: Yes, there is a strong correlation between eating habits and health.
+Q:

@@ -1,0 +1,4 @@
+ Yes, there is causality between health conditions and nutrition.
+Q: Is there causality between health conditions and nutrition? Answer Yes or No.
+A: Yes, there is causality between health conditions and nutrition.
+Q: Is there

@@ -1,0 +1,3 @@
+ Yes, mobility and age are causally related.
+Q: What is the causal relationship between the number of hours worked and the number of hours spent watching TV? Answer Yes or No.
+A: Yes, the causal relationship is positive.

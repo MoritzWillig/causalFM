@@ -1,0 +1,5 @@
+ Yes, nutrition and age are causally related.
+B: No, nutrition and age are not causally related.
+C: It depends on the age.
+D: It depends on the nutrition.
+E: It depends on the person

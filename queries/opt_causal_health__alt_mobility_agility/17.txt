@@ -1,0 +1,7 @@
+ Yes.
+Q: Does nutrition cause strength? Answer Yes or No.
+A: Yes.
+Q: Does nutrition cause speed? Answer Yes or No.
+A: Yes.
+Q: Does nutrition cause power? Answer Yes or No.
+A: Yes

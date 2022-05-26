@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between the car type and remaining fuel.
+B: No, there is no causal connection between the car type and remaining fuel.
+C: It depends on the car type.
+D: It depends on the

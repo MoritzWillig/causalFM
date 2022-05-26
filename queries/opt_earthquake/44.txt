@@ -1,0 +1,7 @@
+ No.
+Q: Do earthquakes cause burglaries? Answer Yes or No.
+A: No.
+Q: Do earthquakes cause floods? Answer Yes or No.
+A: No.
+Q: Do floods cause earthquakes? Answer Yes or No.
+A

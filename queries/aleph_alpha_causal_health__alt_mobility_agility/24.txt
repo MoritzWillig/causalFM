@@ -1,0 +1,4 @@
+ Yes, there is causality between age and agility.
+Q: Is there causality between age and intelligence? Answer Yes or No.
+A: Yes, there is causality between age and intelligence.
+Q: Is there causality

@@ -1,0 +1,5 @@
+ Yes, there is a causal connection between healthiness and mobility.
+B: No, there is no causal connection between healthiness and mobility.
+C: I don’t know.
+D: I don’t know.
+E:

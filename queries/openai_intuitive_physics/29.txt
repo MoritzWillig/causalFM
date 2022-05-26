@@ -1,0 +1,3 @@
+
+
+The beam will rotate and the person will jump into the air.

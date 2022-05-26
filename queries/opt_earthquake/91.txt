@@ -1,0 +1,8 @@
+ Yes
+B: No
+C: I don't know
+D: I don't know
+E: I don't know
+
+Q: Is there causality between alarms and calls from Mary? Answer Yes or No.
+A:

@@ -1,0 +1,7 @@
+ Yes.
+Q: Does altitude cause precipitation? Answer Yes or No.
+A: Yes.
+Q: Does altitude cause wind? Answer Yes or No.
+A: Yes.
+Q: Does altitude cause precipitation? Answer Yes or No.
+A: Yes

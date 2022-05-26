@@ -1,0 +1,4 @@
+ Yes, there is causality between age and health.
+Q: Is there causality between age and health? Answer Yes or No.
+A: No, there is no causality between age and health.
+Q: Is there causality

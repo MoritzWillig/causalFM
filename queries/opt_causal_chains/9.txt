@@ -1,0 +1,11 @@
+
+
+If A causes B, B causes C, C causes D, D causes E, E causes F. Does B cause E?
+
+−
+
+−
+
+===Example===
+
+−

@@ -1,0 +1,4 @@
+ Yes, cancer is a disease that can be caused by pollution.
+Q: Does pollution influence cancer? Answer Yes or No.
+A: Yes, pollution is a disease that can be caused by cancer.
+Q: Does pollution influence cancer?

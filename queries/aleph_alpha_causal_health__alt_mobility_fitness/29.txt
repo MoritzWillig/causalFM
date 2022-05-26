@@ -1,0 +1,4 @@
+ Yes, there is a causal relationship between nutrition and fitness.
+Q: Is there causality between nutrition and fitness? Answer Yes or No.
+A: Yes, there is a causal relationship between nutrition and fitness.
+Q: Is there caus

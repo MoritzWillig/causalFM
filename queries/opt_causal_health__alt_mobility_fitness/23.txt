@@ -1,0 +1,7 @@
+ Yes.
+Q: Does nutrition influence health? Answer Yes or No.
+A: Yes.
+Q: Does nutrition influence performance? Answer Yes or No.
+A: Yes.
+Q: Does nutrition influence recovery? Answer Yes or No.
+A: Yes

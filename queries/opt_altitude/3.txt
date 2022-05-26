@@ -1,0 +1,6 @@
+ Yes.
+Q: Is there a causal connection between altitude and temperature? Answer Yes or No.
+A: No.
+Q: Is there a causal connection between temperature and altitude? Answer Yes or No.
+A: Yes.
+Q

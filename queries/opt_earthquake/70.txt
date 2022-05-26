@@ -1,0 +1,6 @@
+ Yes
+Q: Do alarms influence calls from John? Answer Yes or No.
+A: Yes
+Q: Do alarms influence calls from John? Answer Yes or No.
+A: Yes
+Q: Do alarms influence calls from John? Answer Yes or No

@@ -1,0 +1,4 @@
+ Yes, healthiness does influence mobility.
+Q: Does healthiness influence the amount of damage you take? Answer Yes or No.
+A: Yes, healthiness does influence the amount of damage you take.
+Q: Does healthiness influence

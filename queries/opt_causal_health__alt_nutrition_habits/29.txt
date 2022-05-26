@@ -1,0 +1,5 @@
+ Yes.
+Q: Is there causality between eating habits and mortality? Answer Yes or No.
+A: Yes.
+Q: Is there causality between eating habits and morbidity? Answer Yes or No.
+A: Yes.

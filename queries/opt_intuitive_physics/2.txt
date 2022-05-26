@@ -1,0 +1,9 @@
+
+
+A. It falls into the bucket.
+
+B. It falls into the bucket and bounces off the board.
+
+C. It falls into the bucket and bounces off the board and into the bucket below.
+
+D

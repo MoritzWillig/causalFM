@@ -1,0 +1,4 @@
+ Yes.
+Q: Is there a causal connection between treatments and the severity of the disease? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between treatments and the length of the disease? Answer

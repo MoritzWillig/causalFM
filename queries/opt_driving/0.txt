@@ -1,0 +1,5 @@
+ Yes
+B: No
+Q: What is the relationship between fuel consumption and driving style? Answer Yes or No.
+A: Fuel consumption is proportional to driving style.
+B: Fuel consumption is inversely proportional to driving style.

@@ -1,0 +1,4 @@
+ Yes.
+Q: Is the speed of recovery causally related to the severity of the injury? Answer Yes or No.
+A: Yes.
+Q: Is the speed of recovery causally related to the type of injury? Answer Yes

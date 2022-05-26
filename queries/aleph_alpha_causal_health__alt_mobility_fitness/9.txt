@@ -1,0 +1,4 @@
+ Yes, fitness is a causal factor in health.
+B: No, fitness is not a causal factor in health.
+C: Fitness is a causal factor in health, but not a direct one.
+D: Fitness is a causal factor in

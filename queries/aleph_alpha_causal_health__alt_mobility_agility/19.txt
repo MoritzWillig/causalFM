@@ -1,0 +1,5 @@
+ Yes, health does influence agility.
+Q: Does health influence strength? Answer Yes or No.
+A: Yes, health does influence strength.
+Q: Does health influence intelligence? Answer Yes or No.
+A: Yes, health

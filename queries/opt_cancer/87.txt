@@ -1,0 +1,4 @@
+ Yes.
+Q: Is there causality between smoking and dyspnoea in patients with COPD? Answer Yes or No.
+A: Yes.
+Q: Is there causality between smoking and dyspnoea in patients

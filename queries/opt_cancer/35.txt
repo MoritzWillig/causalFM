@@ -1,0 +1,4 @@
+ Yes.
+Q: Is there a causal connection between x-ray examinations and dyspnoea? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between x-ray examinations

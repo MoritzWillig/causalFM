@@ -1,0 +1,5 @@
+ Yes, cancer causes smoking.
+Q: Does cancer cause drinking? Answer Yes or No.
+A: Yes, cancer causes drinking.
+Q: Does cancer cause eating? Answer Yes or No.
+A: Yes, cancer causes eating.

@@ -1,0 +1,6 @@
+ Yes.
+Q: Does health cause weight gain? Answer Yes or No.
+A: Yes.
+Q: Does health cause weight loss? Answer Yes or No.
+A: Yes.
+Q: Does health cause exercise? Answer Yes or No.

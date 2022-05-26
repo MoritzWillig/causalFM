@@ -1,0 +1,3 @@
+ Yes, there is causality between the speed of recovery and treatments.
+Q: Is there causality between the speed of recovery and the number of treatments? Answer Yes or No.
+A: Yes, there is causality between the speed of

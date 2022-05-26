@@ -1,0 +1,5 @@
+ Yes.
+Q: Does the driving style cause the remaining fuel to be used up? Answer Yes or No.
+A: Yes.
+Q: Does the driving style cause the remaining fuel to be used up faster? Answer Yes or No.
+A

@@ -1,0 +1,4 @@
+ Yes, there is causality between burglaries and alarms.
+B: No, there is no causality between burglaries and alarms.
+C: It depends on the time of the year.
+D: It depends on the time

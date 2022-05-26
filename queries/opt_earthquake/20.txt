@@ -1,0 +1,5 @@
+ No.
+Q: Is there a causal connection between earthquakes and robberies? Answer Yes or No.
+A: No.
+Q: Is there a causal connection between earthquakes and rapes? Answer Yes or No.
+A: No.

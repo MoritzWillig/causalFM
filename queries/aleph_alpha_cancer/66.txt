@@ -1,0 +1,4 @@
+ Smoking does not influence x-ray examinations.
+Q: Does smoking influence the results of blood tests? Answer Yes or No.
+A: Smoking does not influence the results of blood tests.
+Q: Does smoking influence the results of

@@ -1,0 +1,4 @@
+ Yes, there is causality between treatments and the speed of recovery.
+B: No, there is no causality between treatments and the speed of recovery.
+C: It depends on the treatment.
+D: It depends on the patient.

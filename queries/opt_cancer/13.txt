@@ -1,0 +1,4 @@
+ Smoking is a risk factor for lung cancer.
+B: X-ray examinations are not causally related to lung cancer.
+C: X-ray examinations are causally related to lung cancer.
+D: X-ray examinations are not

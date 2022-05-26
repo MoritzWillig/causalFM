@@ -1,0 +1,4 @@
+ Yes, there is a causal connection between pollution and x-ray examinations.
+B: No, there is no causal connection between pollution and x-ray examinations.
+C: It depends on the type of x-ray examination.
+D:

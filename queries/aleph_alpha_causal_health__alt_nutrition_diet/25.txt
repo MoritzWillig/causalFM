@@ -1,0 +1,4 @@
+ Yes, there is a causal relationship between health and a diet.
+Q: Is there causality between health and a diet? Answer Yes or No.
+A: Yes, there is a causal relationship between health and a diet.
+Q:

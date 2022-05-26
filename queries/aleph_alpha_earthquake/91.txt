@@ -1,0 +1,5 @@
+ No.
+Q: Is there causality between alarms and calls from Mary? Answer Yes or No.
+A: Yes.
+Q: Is there causality between alarms and calls from Mary? Answer Yes or No.
+A:

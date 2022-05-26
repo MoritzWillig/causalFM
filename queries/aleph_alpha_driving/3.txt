@@ -1,0 +1,3 @@
+ Yes, the driving style and car type are causally related.
+B: No, the driving style and car type are not causally related.
+C: The driving style and car type are causally related, but the causal relationship is not

@@ -1,0 +1,6 @@
+ Yes.
+Q: Does smoking influence the risk of lung cancer? Answer Yes or No.
+A: Yes.
+Q: Does smoking influence the risk of heart disease? Answer Yes or No.
+A: Yes.
+Q: Does smoking influence the risk of

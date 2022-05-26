@@ -1,0 +1,5 @@
+ No, because Mary is a good person.
+B: Yes, because Mary is a bad person.
+C: No, because Mary is a good person.
+D: Yes, because Mary is a bad person.
+E: No,

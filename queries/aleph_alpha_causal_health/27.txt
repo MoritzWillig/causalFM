@@ -1,0 +1,6 @@
+ No.
+Q: Does age cause health? Answer Yes or No.
+A: No.
+Q: Does health cause age? Answer Yes or No.
+A: No.
+Q: Does age cause health? Answer Yes or No

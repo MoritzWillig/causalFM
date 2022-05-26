@@ -1,0 +1,5 @@
+ Yes, it does.
+Q: Does the car type affect the fuel consumption? Answer Yes or No.
+A: Yes, it does.
+Q: Does the car type affect the fuel consumption? Answer Yes or No.
+A:

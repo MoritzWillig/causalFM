@@ -1,0 +1,7 @@
+
+A. The heavy object
+B. The light object
+C. The seesaw will move down
+D. The seesaw will not move down
+E. The seesaw will move up
+F. The seesaw

@@ -1,0 +1,4 @@
+ No, agility does not cause nutrition.
+Q: Does agility cause injury? Answer Yes or No.
+A: No, agility does not cause injury.
+Q: Does agility cause stress? Answer Yes or No.

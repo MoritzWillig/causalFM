@@ -1,0 +1,8 @@
+ Yes
+B: No
+C: I don't know
+D: I don't care
+E: I don't know
+
+Q: Are alarms and calls from John causally related? Answer Yes or No.
+A: Yes

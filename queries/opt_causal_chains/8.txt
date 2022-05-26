@@ -1,0 +1,5 @@
+
+
+If A causes B, B causes C, C causes D, D causes E, E causes F, then A causes F.
+
+If A causes B, B causes C, C causes D,

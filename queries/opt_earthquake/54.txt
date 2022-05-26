@@ -1,0 +1,6 @@
+ Yes
+Q: Do calls from John cause alarms? Answer Yes or No.
+A: Yes
+Q: Do calls from John cause alarms? Answer Yes or No.
+A: Yes
+Q: Do calls from John cause alarms? Answer Yes or No

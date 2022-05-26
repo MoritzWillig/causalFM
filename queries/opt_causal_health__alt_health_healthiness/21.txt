@@ -1,0 +1,6 @@
+ Yes.
+Q: Does nutrition influence healthiness? Answer Yes or No.
+A: Yes.
+Q: Does healthiness influence nutrition? Answer Yes or No.
+A: Yes.
+Q: Does nutrition influence healthiness? Answer Yes or No.

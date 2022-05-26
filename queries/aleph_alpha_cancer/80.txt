@@ -1,0 +1,5 @@
+ Yes, there is causality between pollution and smoking.
+B: No, there is no causality between pollution and smoking.
+C: It depends on the type of pollution.
+D: It depends on the type of smoking.
+E

@@ -1,0 +1,5 @@
+ Yes.
+Q: Do x-ray examinations influence the use of tobacco? Answer Yes or No.
+A: Yes.
+Q: Do x-ray examinations influence the use of tobacco products? Answer Yes or No.
+A: Yes.

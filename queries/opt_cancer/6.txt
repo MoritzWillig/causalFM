@@ -1,0 +1,3 @@
+ Smoking is a risk factor for lung cancer. X-ray examinations are not a risk factor for lung cancer.
+Q: Are smoking and x-ray examinations causally related? Answer Yes or No.
+A: Smoking is a risk factor

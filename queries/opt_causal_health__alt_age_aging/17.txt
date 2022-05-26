@@ -1,0 +1,7 @@
+ Yes.
+Q: Does nutrition cause cancer? Answer Yes or No.
+A: Yes.
+Q: Does nutrition cause diabetes? Answer Yes or No.
+A: Yes.
+Q: Does nutrition cause heart disease? Answer Yes or No.
+A:

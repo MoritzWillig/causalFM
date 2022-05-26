@@ -1,0 +1,4 @@
+ No, because Mary is not a member of the group.
+Q: Do calls from John cause calls from Mary? Answer Yes or No.
+A: Yes, because John is a member of the group.
+Q: Do calls from Mary

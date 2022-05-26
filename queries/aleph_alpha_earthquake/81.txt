@@ -1,0 +1,3 @@
+ Yes, there is a causality between earthquakes and alarms.
+Q: Is there causality between earthquakes and alarms? Answer Yes or No.
+A: Yes, there is a causality between earthquakes and alarms.

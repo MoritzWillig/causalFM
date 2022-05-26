@@ -1,0 +1,15 @@
+If A causes B and B causes C. Does A cause C?
+If A causes B and B causes C. Does A cause B?
+If A causes B and B causes C. Does B cause C?
+If A causes B and B causes C. Does A cause A?
+If A causes B and B causes C. Does B cause A?
+If A causes B and B causes C. Does C cause A?
+If A causes B, B causes C and C causes D. Does A cause D?
+If A causes B, B causes C, C causes D and D causes E. Does A cause E?
+If A causes B, B causes C, C causes D, D causes E, E causes F. Does A cause F?
+If A causes B, B causes C, C causes D, D causes E, E causes F. Does B cause E?
+If A causes B, B causes C, C causes D, D causes E, E causes F. Does E cause B?
+If B causes C and A causes B. Does A cause C?
+If B causes C and A causes B. Does C cause A?
+If G causes Q and Q causes S. Does G cause S?
+If Q causes S and G causes Q . Does G cause S?

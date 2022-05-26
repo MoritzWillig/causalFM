@@ -1,0 +1,60 @@
+Q: Are age and health causally related? Answer Yes or No.\nA: 
+Q: Are age and mobility causally related? Answer Yes or No.\nA: 
+Q: Are age and nutrition causally related? Answer Yes or No.\nA: 
+Q: Are health and age causally related? Answer Yes or No.\nA: 
+Q: Are health and mobility causally related? Answer Yes or No.\nA: 
+Q: Are health and nutrition causally related? Answer Yes or No.\nA: 
+Q: Are mobility and age causally related? Answer Yes or No.\nA: 
+Q: Are mobility and health causally related? Answer Yes or No.\nA: 
+Q: Are mobility and nutrition causally related? Answer Yes or No.\nA: 
+Q: Are nutrition and age causally related? Answer Yes or No.\nA: 
+Q: Are nutrition and health causally related? Answer Yes or No.\nA: 
+Q: Are nutrition and mobility causally related? Answer Yes or No.\nA: 
+Q: Is there a causal connection between age and health? Answer Yes or No.\nA: 
+Q: Is there a causal connection between age and mobility? Answer Yes or No.\nA: 
+Q: Is there a causal connection between age and nutrition? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health and age? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health and mobility? Answer Yes or No.\nA: 
+Q: Is there a causal connection between health and nutrition? Answer Yes or No.\nA: 
+Q: Is there a causal connection between mobility and age? Answer Yes or No.\nA: 
+Q: Is there a causal connection between mobility and health? Answer Yes or No.\nA: 
+Q: Is there a causal connection between mobility and nutrition? Answer Yes or No.\nA: 
+Q: Is there a causal connection between nutrition and age? Answer Yes or No.\nA: 
+Q: Is there a causal connection between nutrition and health? Answer Yes or No.\nA: 
+Q: Is there a causal connection between nutrition and mobility? Answer Yes or No.\nA: 
+Q: Does age cause health? Answer Yes or No.\nA: 
+Q: Does age cause mobility? Answer Yes or No.\nA: 
+Q: Does age cause nutrition? Answer Yes or No.\nA: 
+Q: Does health cause age? Answer Yes or No.\nA: 
+Q: Does health cause mobility? Answer Yes or No.\nA: 
+Q: Does health cause nutrition? Answer Yes or No.\nA: 
+Q: Does mobility cause age? Answer Yes or No.\nA: 
+Q: Does mobility cause health? Answer Yes or No.\nA: 
+Q: Does mobility cause nutrition? Answer Yes or No.\nA: 
+Q: Does nutrition cause age? Answer Yes or No.\nA: 
+Q: Does nutrition cause health? Answer Yes or No.\nA: 
+Q: Does nutrition cause mobility? Answer Yes or No.\nA: 
+Q: Does age influence health? Answer Yes or No.\nA: 
+Q: Does age influence mobility? Answer Yes or No.\nA: 
+Q: Does age influence nutrition? Answer Yes or No.\nA: 
+Q: Does health influence age? Answer Yes or No.\nA: 
+Q: Does health influence mobility? Answer Yes or No.\nA: 
+Q: Does health influence nutrition? Answer Yes or No.\nA: 
+Q: Does mobility influence age? Answer Yes or No.\nA: 
+Q: Does mobility influence health? Answer Yes or No.\nA: 
+Q: Does mobility influence nutrition? Answer Yes or No.\nA: 
+Q: Does nutrition influence age? Answer Yes or No.\nA: 
+Q: Does nutrition influence health? Answer Yes or No.\nA: 
+Q: Does nutrition influence mobility? Answer Yes or No.\nA: 
+Q: Is there causality between age and health? Answer Yes or No.\nA: 
+Q: Is there causality between age and mobility? Answer Yes or No.\nA: 
+Q: Is there causality between age and nutrition? Answer Yes or No.\nA: 
+Q: Is there causality between health and age? Answer Yes or No.\nA: 
+Q: Is there causality between health and mobility? Answer Yes or No.\nA: 
+Q: Is there causality between health and nutrition? Answer Yes or No.\nA: 
+Q: Is there causality between mobility and age? Answer Yes or No.\nA: 
+Q: Is there causality between mobility and health? Answer Yes or No.\nA: 
+Q: Is there causality between mobility and nutrition? Answer Yes or No.\nA: 
+Q: Is there causality between nutrition and age? Answer Yes or No.\nA: 
+Q: Is there causality between nutrition and health? Answer Yes or No.\nA: 
+Q: Is there causality between nutrition and mobility? Answer Yes or No.\nA: 

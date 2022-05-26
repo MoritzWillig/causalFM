@@ -1,0 +1,6 @@
+ Yes.
+Q: Are age and healthiness causally related? Answer Yes or No.
+A: Yes.
+Q: Are age and healthiness causally related? Answer Yes or No.
+A: Yes.
+Q: Are age

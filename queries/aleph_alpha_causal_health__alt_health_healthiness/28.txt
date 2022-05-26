@@ -1,0 +1,4 @@
+ Yes, there is a causal relationship between mobility and healthiness.
+B: No, there is no causal relationship between mobility and healthiness.
+C: It depends on the type of mobility.
+D: It depends on the type of health

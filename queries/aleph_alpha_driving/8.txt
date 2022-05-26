@@ -1,0 +1,3 @@
+ Yes, there is a causal connection between the driving style and remaining fuel.
+Q: Is there a causal connection between the driving style and remaining fuel? Answer Yes or No.
+A: Yes, there is a causal connection between the driving style

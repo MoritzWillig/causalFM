@@ -1,0 +1,3 @@
+ Yes, the remaining fuel and the driving style are causally related.
+Q: Are the remaining fuel and the driving style causally related? Answer Yes or No.
+A: No, the remaining fuel and the driving style are not causally

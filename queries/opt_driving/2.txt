@@ -1,0 +1,5 @@
+ Yes.
+Q: Is the driving style causally related to the remaining fuel? Answer Yes or No.
+A: Yes.
+Q: Is the remaining fuel causally related to the driving style? Answer Yes or No.
+A

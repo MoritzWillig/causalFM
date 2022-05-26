@@ -1,0 +1,4 @@
+ No, x-ray examinations do not cause pollution.
+Q: Do x-ray examinations cause pollution? Answer Yes or No.
+A: No, x-ray examinations do not cause pollution.
+Q: Do x-ray examinations cause

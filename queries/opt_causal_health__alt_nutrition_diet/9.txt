@@ -1,0 +1,5 @@
+ Yes.
+Q: Is there a causal connection between a diet and weight? Answer Yes or No.
+A: Yes.
+Q: Is there a causal connection between a diet and health? Answer Yes or No.
+A: Yes
