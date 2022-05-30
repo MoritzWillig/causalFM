@@ -5,6 +5,8 @@ import numpy as np
 from networkx import *
 import matplotlib.pyplot as plt
 
+from causalFM.plot_config import arrow_active_color, arrow_alternative_color, arrow_inactive_color
+
 var_positions = {
     # ALTITUDE
     "altitude": [0, 0],
@@ -55,7 +57,7 @@ def lerp(a, b, x):
     return (a*(1-x)) + (b*x)
 
 
-def draw_edge(p0, p1, f01, f10, pad, active_color=(0.2, 0.8, 0.0), alt_color=(0.05, 0.2, 0.8), mode=None,
+def draw_edge(p0, p1, f01, f10, pad, active_color=None, alt_color=None, mode=None,
               label=None, label0=None, label1=None, label_x_percent=0.5):
     """
     :param p0: node0 position
@@ -73,6 +75,12 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=(0.2, 0.8, 0.0), alt_color=(0.
     :param label_x_percent: determines where label0/1 are placed (0.0=center, 1.0=at tip of arrow)
     :return:
     """
+    if active_color is None:
+        active_color = arrow_active_color
+    if alt_color is None:
+        alt_color = arrow_alternative_color
+    inactive_color = arrow_inactive_color
+
     if mode is None:
         mode = "encode"
 
@@ -105,13 +113,13 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=(0.2, 0.8, 0.0), alt_color=(0.
         if not has_connection:
             return
         c0, c1, c2 = active_color
-        b0, b1, b2 = (1.0, 1.0, 1.0)
+        b0, b1, b2 = inactive_color
         r_color01 = (lerp(b0, c0, f01), lerp(b1, c1, f01), lerp(b2, c2, f01))
         r_color10 = (lerp(b0, c0, f10), lerp(b1, c1, f10), lerp(b2, c2, f10))
     elif mode == "diverging":
         has_no_connection = np.isnan(f01) or np.isnan(f10)
         # handle case where only one edge exists
-        assert np.isnan(f01) != np.isnan(f10)
+        assert np.isnan(f01) == np.isnan(f10)
 
         if has_no_connection:
             return
@@ -161,7 +169,7 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=(0.2, 0.8, 0.0), alt_color=(0.
             label1, horizontalalignment='center', verticalalignment="center")
 
 def plot_from_adj_mat(
-        adj_mat, var_names, dataset_name, ax=None, abrev_vars=True, ignore_undefined=False,
+        adj_mat, var_names, dataset_name, ax=None, abrev_vars=True, ignore_undefined=True,
         edge_labels=None, edge_mode=None):
     if ax is None:
         raise RuntimeError("ax is none")
@@ -179,6 +187,9 @@ def plot_from_adj_mat(
 
     if ignore_undefined:
         adj_mat = adj_mat.clip(min=0)
+    else:
+        #TODO
+        raise RuntimeError("Warn no explicit handling of unknown values")
 
     circle_radius = 0.1
 
