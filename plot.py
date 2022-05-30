@@ -93,7 +93,7 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=(0.2, 0.8, 0.0), alt_color=(0.
         #1=edge, 0=no edge, -1=unknown
         a01 = f01 == 1
         a10 = f10 == 1
-        has_connection = a01 and a10
+        has_connection = a01 or a10
         if not has_connection:
             return
         r_color01 = active_color
@@ -101,7 +101,7 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=(0.2, 0.8, 0.0), alt_color=(0.
     elif mode == "strength":
         a01 = f01 != 0
         a10 = f10 != 0
-        has_connection = a01 and a10
+        has_connection = a01 or a10
         if not has_connection:
             return
         c0, c1, c2 = active_color
@@ -110,6 +110,9 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=(0.2, 0.8, 0.0), alt_color=(0.
         r_color10 = (lerp(b0, c0, f10), lerp(b1, c1, f10), lerp(b2, c2, f10))
     elif mode == "diverging":
         has_no_connection = np.isnan(f01) or np.isnan(f10)
+        # handle case where only one edge exists
+        assert np.isnan(f01) != np.isnan(f10)
+
         if has_no_connection:
             return
         a01 = True
