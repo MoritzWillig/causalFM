@@ -88,7 +88,9 @@ for api_idx, api in enumerate(from_apis):
             ax.set_title(f'{alt_name}', y=1)
 
             adj_mat = adj_mats[api_idx, :, :, :]
+            adj_mat = adj_mat.clip(min=0.0)  # set 'unknown' edges to NO
             adj_mat = np.sum(adj_mat, axis=0)  # count number of times the edges appear
+            alt_adj_mat = alt_adj_mat.clip(min=0.0)  # set 'unknown' edges to NO
             alt_adj_mat = np.sum(alt_adj_mat, axis=0)  # count number of times the edges appear
 
             diff = alt_adj_mat - adj_mat  # compute difference between base and altered graph
@@ -107,7 +109,7 @@ for api_idx, api in enumerate(from_apis):
 
             adj_labels = adj_mat_to_list(diff, lambda a, i, j: f"{signed_nr_str(a[i,j])}")
             diff /= (len(question_templates) / 2)
-            diff = np.clip(diff, -1, 1)
+            diff = diff.clip(-1, 1)
 
             plot_from_adj_mat(
                 diff, variable_names, dataset,

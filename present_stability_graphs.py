@@ -57,6 +57,7 @@ for api_idx, api in enumerate(from_apis):
         queries = d_queries[dataset_idx]
 
         adj_mat = adj_mats[api_idx, :, :, :]
+        adj_mat = adj_mat.clip(min=0.0)  # set 'unknown' edges to NO
         adj_mat = np.sum(adj_mat, axis=0)  # count number of times the edge appears
 
         adj_labels = adj_mat_to_list(adj_mat, lambda a, i, j: f"{int(a[i,j])}/{len(question_templates)}")
