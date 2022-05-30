@@ -4,7 +4,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import numpy as np
 
-from causalFM.answer_helpers import get_response_flags, categorize_answers, load_compact_answers
+from causalFM.answer_helpers import get_response_flags, categorize_answers, load_compact_answers, adj_mat_to_list
 from causalFM.plot import plot_from_adj_mat
 from causalFM.query_helpers import load_query_instances, question_templates
 
@@ -12,7 +12,7 @@ save_fig = True
 test_run = False  # if true stops after first plot
 
 evaluations_dir = Path("./evaluations")
-base_name = "base"
+base_name = "base_edge_type"
 
 base_dir = evaluations_dir / base_name
 base_dir.mkdir(exist_ok=True)
@@ -58,9 +58,21 @@ for api_idx, api in enumerate(from_apis):
             queries = d_queries[dataset_idx]
 
             adj_mat = adj_mats[api_idx, template_idx, :, :]
-            adj_mat = adj_mat.clip(min=0.0)
 
-            plot_from_adj_mat(adj_mat, variable_names, dataset, ax=ax, abrev_vars=True)
+            def get_edge_type_label(a, i, j):
+                et = a[i, j]
+                if et > 0:
+                    return "+"
+                elif et == 0:
+                    return "-"
+                elif et < 0:
+                    return "?"
+
+            adj_labels = adj_mat_to_list(adj_mat, get_edge_type_label)
+            plot_from_adj_mat(
+                adj_mat, variable_names, dataset, ax=ax, abrev_vars=True, edge_labels=adj_labels,
+                edge_mode='sign'
+            )
 
         graph_name = f"{base_name}_{api}_{template_idx}{template['name']}"
         fig.tight_layout(h_pad=0.5)

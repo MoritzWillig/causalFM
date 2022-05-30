@@ -113,7 +113,7 @@ for api_idx, api in enumerate(from_apis):
 
             plot_from_adj_mat(
                 diff, variable_names, dataset,
-                ax=ax, abrev_vars=True, ignore_undefined=True,
+                ax=ax, abrev_vars=True,
                 edge_labels=adj_labels, edge_mode="diverging")
 
         graph_name = f"{base_name}_{api}_{altered_var}"

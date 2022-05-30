@@ -5,7 +5,8 @@ import numpy as np
 from networkx import *
 import matplotlib.pyplot as plt
 
-from causalFM.plot_config import arrow_active_color, arrow_alternative_color, arrow_inactive_color
+from causalFM.plot_config import arrow_active_color, arrow_alternative_color, arrow_inactive_color, \
+    arrow_positive_color, arrow_negative_color, arrow_unknown_color
 
 var_positions = {
     # ALTITUDE
@@ -58,7 +59,8 @@ def lerp(a, b, x):
 
 
 def draw_edge(p0, p1, f01, f10, pad, active_color=None, alt_color=None, mode=None,
-              label=None, label0=None, label1=None, label_x_percent=0.5):
+              label=None, label0=None, label1=None, label_x_percent=0.5,
+              color_p=None, color_n=None, color_u=None):
     """
     :param p0: node0 position
     :param p1: node1 position
@@ -79,6 +81,12 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=None, alt_color=None, mode=Non
         active_color = arrow_active_color
     if alt_color is None:
         alt_color = arrow_alternative_color
+    if color_p is None:
+        color_p = arrow_positive_color
+    if color_n is None:
+        color_n = arrow_negative_color
+    if color_u is None:
+        color_u = arrow_unknown_color
     inactive_color = arrow_inactive_color
 
     if mode is None:
@@ -106,6 +114,11 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=None, alt_color=None, mode=Non
             return
         r_color01 = active_color
         r_color10 = active_color
+    elif mode == "sign":
+        a01 = True
+        a10 = True
+        r_color01 = color_p if f01 > 0 else color_u if f01 < 0 else color_n
+        r_color10 = color_p if f10 > 0 else color_u if f10 < 0 else color_n
     elif mode == "strength":
         a01 = f01 != 0
         a10 = f10 != 0
@@ -169,7 +182,7 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=None, alt_color=None, mode=Non
             label1, horizontalalignment='center', verticalalignment="center")
 
 def plot_from_adj_mat(
-        adj_mat, var_names, dataset_name, ax=None, abrev_vars=True, ignore_undefined=True,
+        adj_mat, var_names, dataset_name, ax=None, abrev_vars=True, ignore_undefined=None,
         edge_labels=None, edge_mode=None):
     if ax is None:
         raise RuntimeError("ax is none")
@@ -185,11 +198,8 @@ def plot_from_adj_mat(
     var_labels = [var_name[0] if abrev_vars else var_name for var_name in var_names]
     var_labels = [var_label.capitalize() for var_label in var_labels]
 
-    if ignore_undefined:
-        adj_mat = adj_mat.clip(min=0)
-    else:
-        #TODO
-        raise RuntimeError("Warn no explicit handling of unknown values")
+    if ignore_undefined is not None:
+        print("[deprecated] 'ignore_undefined' argument has no effect")
 
     circle_radius = 0.1
 
