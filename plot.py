@@ -127,8 +127,11 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=None, alt_color=None, mode=Non
             return
         c0, c1, c2 = active_color
         b0, b1, b2 = inactive_color
-        r_color01 = (lerp(b0, c0, f01), lerp(b1, c1, f01), lerp(b2, c2, f01))
-        r_color10 = (lerp(b0, c0, f10), lerp(b1, c1, f10), lerp(b2, c2, f10))
+
+        f01s = 1 - f01
+        f10s = 1 - f10
+        r_color01 = (lerp(b0, c0, f01s), lerp(b1, c1, f01s), lerp(b2, c2, f01s))
+        r_color10 = (lerp(b0, c0, f10s), lerp(b1, c1, f10s), lerp(b2, c2, f10s))
     elif mode == "diverging":
         has_no_connection = np.isnan(f01) or np.isnan(f10)
         # handle case where only one edge exists
