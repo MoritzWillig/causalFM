@@ -144,10 +144,13 @@ def draw_edge(p0, p1, f01, f10, pad, active_color=None, alt_color=None, mode=Non
 
         f01 = (f01 + 1) / 2  # map -1..1 to 0..1
         f10 = (f10 + 1) / 2
+
+        f01s = 1 - f01
+        f10s = 1 - f10
         c0, c1, c2 = active_color #->positive
         b0, b1, b2 = alt_color #->negative
-        r_color01 = (lerp(b0, c0, f01), lerp(b1, c1, f01), lerp(b2, c2, f01))
-        r_color10 = (lerp(b0, c0, f10), lerp(b1, c1, f10), lerp(b2, c2, f10))
+        r_color01 = (lerp(b0, c0, f01s), lerp(b1, c1, f01s), lerp(b2, c2, f01s))
+        r_color10 = (lerp(b0, c0, f10s), lerp(b1, c1, f10s), lerp(b2, c2, f10s))
     else:
         raise RuntimeError(f"Unknown display mode: {mode}")
 
