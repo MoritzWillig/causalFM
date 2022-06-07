@@ -1,7 +1,7 @@
-# Causal Foundation Models?
+# Can Foundation Models Talk Causality?
 
 # Installation
-The usual stuff (numpy, matplotlib, ...). Also `transformers` for the OPT model.
+The usual libs (numpy, matplotlib, ...). Also `transformers` for the OPT model.
 ```
 conda create -n fm python=3.8
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
