@@ -4,11 +4,14 @@ from rtpt import RTPT
 
 opt_model = "facebook/opt-30b" # "facebook/opt-30b"
 
+opt_device_map = "auto"  # distribute parameter across all available gpus (and cpu if needed)
+#device_map = None  # single gpu
+
 def startup_opt(keys_dir):
     rtpt = RTPT(name_initials='MW', experiment_name='', max_iterations=100)
     rtpt.start()
 
-    model = AutoModelForCausalLM.from_pretrained(opt_model, torch_dtype=torch.float16).cuda()
+    model = AutoModelForCausalLM.from_pretrained(opt_model, torch_dtype=torch.float16, device_map=opt_device_map).cuda()
 
     # the fast tokenizer currently does not work correctly
     tokenizer = AutoTokenizer.from_pretrained(opt_model, use_fast=False)
